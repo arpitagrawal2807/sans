@@ -1,2042 +1,2389 @@
 [ {
+  "word" : "10'O CLOCK",
   "mean" : "दशवादने समये",
-  "h_mean" : "दस बजे",
-  "word" : "10'O CLOCK"
+  "h_mean" : "दस बजे"
 }, {
+  "word" : "ACCEPTED IT",
   "mean" : "अगृह्णात्",
-  "h_mean" : "ग्रहण किया",
-  "word" : "ACCEPTED IT"
+  "h_mean" : "ग्रहण किया"
 }, {
+  "word" : "ACHIEVE YOURSELF",
   "mean" : "सम्प्राप्ते",
-  "h_mean" : "अपने को प्राप्त",
-  "word" : "ACHIEVE YOURSELF"
+  "h_mean" : "अपने को प्राप्त"
 }, {
+  "word" : "ACTING",
   "mean" : "अभिनयम्",
-  "h_mean" : "नाटक को",
-  "word" : "ACTING"
+  "h_mean" : "नाटक को"
 }, {
+  "word" : "AFTER",
   "mean" : "अनन्तरम्",
-  "h_mean" : "बाद",
-  "word" : "AFTER"
+  "h_mean" : "बाद"
 }, {
+  "word" : "AFTER HEARING",
+  "mean" : "श्रुत्वा",
+  "h_mean" : "सुनकर"
+}, {
+  "word" : "AFTER THAT",
   "mean" : "उपरान्तं",
-  "h_mean" : "उसके बाद",
-  "word" : "AFTER THAT"
+  "h_mean" : "उसके बाद"
 }, {
+  "word" : "AFTER THAT",
   "mean" : "तत्पश्चात्",
-  "h_mean" : "उसके बाद",
-  "word" : "AFTER THAT"
+  "h_mean" : "उसके बाद"
 }, {
+  "word" : "AFTER THE HOLIDAY",
   "mean" : "अवकाशोपरान्तम्",
-  "h_mean" : "छुट्टी के बाद",
-  "word" : "AFTER THE HOLIDAY"
+  "h_mean" : "छुट्टी के बाद"
 }, {
+  "word" : "AFTER THE WAR",
   "mean" : "युध्दोपरान्तं",
-  "h_mean" : "युध्द के बाद",
-  "word" : "AFTER THE WAR"
+  "h_mean" : "युध्द के बाद"
 }, {
+  "word" : "AIR-WAY",
   "mean" : "वायु मार्गेण",
-  "h_mean" : "हवा मार्ग से",
-  "word" : "AIR-WAY"
+  "h_mean" : "हवा मार्ग से"
 }, {
+  "word" : "ALL ANIMALS",
   "mean" : "पशवः",
-  "h_mean" : "सब जानवर",
-  "word" : "ALL ANIMALS"
+  "h_mean" : "सब जानवर"
 }, {
+  "word" : "ALL ARE",
   "mean" : "सन्ति",
-  "h_mean" : "सब हैं",
-  "word" : "ALL ARE"
+  "h_mean" : "सब हैं"
 }, {
+  "word" : "ALL BLOOM",
   "mean" : "विकसिष्यन्ति",
-  "h_mean" : "खिलते हैं",
-  "word" : "ALL BLOOM"
+  "h_mean" : "खिलते हैं"
 }, {
+  "word" : "ALL BOOKS",
   "mean" : "पुस्तकानि",
-  "h_mean" : "सब किताबे",
-  "word" : "ALL BOOKS"
+  "h_mean" : "सब किताबे"
 }, {
+  "word" : "ALL BOYS",
   "mean" : "इमे",
-  "h_mean" : "ये सारे लडके",
-  "word" : "ALL BOYS"
+  "h_mean" : "ये सारे लडके"
 }, {
-  "mean" : "नगरेषु",
-  "h_mean" : "सब शहरो मे",
-  "word" : "IN ALL CITIES"
-}, {
-  "mean" : "भ्रमन्ति",
-  "h_mean" : "सब घुमते हैं",
-  "word" : "ALL EXCURSION"
-}, {
-  "mean" : "पतन्ति",
-  "h_mean" : "सब गिरना",
-  "word" : "ALL FALL DOWN"
-}, {
-  "mean" : "व्यजनानि",
-  "h_mean" : "सब पंखे",
-  "word" : "ALL FAN"
-}, {
-  "mean" : "पुष्पाणि",
-  "h_mean" : "सब फूल",
-  "word" : "ALL FLOWERS"
-}, {
-  "mean" : "मित्राणि",
-  "h_mean" : "सारे दोस्त",
-  "word" : "ALL FRIENDS"
-}, {
-  "mean" : "कैः",
-  "h_mean" : "सब किससे",
-  "word" : "ALL FROM WHAT"
-}, {
-  "mean" : "फलानि",
-  "h_mean" : "सब फल",
-  "word" : "ALL FRUIT"
-}, {
-  "mean" : "बालिकाः",
-  "h_mean" : "सारी लडकिंया",
-  "word" : "ALL GIRLS"
-}, {
-  "mean" : "तेषाम्",
-  "h_mean" : "उन सबके",
-  "word" : "ALL OF THEM"
-}, {
-  "mean" : "अश्वाः",
-  "h_mean" : "सब घोड़े",
-  "word" : "ALL HORSES"
-}, {
-  "mean" : "आसन्दकासु",
-  "h_mean" : "कुर्सियां",
-  "word" : "CHAIRS"
-}, {
-  "mean" : "आसन्दिकासु",
-  "h_mean" : "सब कुर्सी पर",
-  "word" : "All IN CHAIR"
-}, {
-  "mean" : "कक्षासु",
-  "h_mean" : "कक्षा में",
-  "word" : "ALL IN CLASS"
-}, {
-  "mean" : "कुर्दन्ति",
-  "h_mean" : "कुदते हैं",
-  "word" : "ALL JUMPING"
-}, {
-  "mean" : "जीवन्ति",
-  "h_mean" : "सब जीते हैं",
-  "word" : "EVERYONE LIVES"
-}, {
-  "mean" : "कमलानि",
-  "h_mean" : "सब कमल",
-  "word" : "ALL LOTUS"
-}, {
-  "mean" : "मातरः",
-  "h_mean" : "माताएँ",
-  "word" : "MOTHERS"
-}, {
-  "mean" : "अस्माकम्",
-  "h_mean" : "हम सभी के",
-  "word" : "ALL OF US"
-}, {
-  "mean" : "कार्यालयेभ्यः",
-  "h_mean" : "कार्यालयों के लिए",
-  "word" : "FOR OFFICES"
-}, {
-  "mean" : "जनाः",
-  "h_mean" : "सब लोग",
-  "word" : "ALL PEOPLE"
-}, {
-  "mean" : "पठन्ति",
-  "h_mean" : "सब पढते हैं",
-  "word" : "ALL PEOPLE STUDIES"
-}, {
-  "mean" : "गायन्ति",
-  "h_mean" : "सब गाते हैं",
-  "word" : "ALL PEOPLE SINGS"
-}, {
-  "mean" : "पठन्ति",
-  "h_mean" : "सब पढते हैं।",
-  "word" : "ALL PEOPLE STUDIES"
-}, {
-  "mean" : "कुवर्न्ति",
-  "h_mean" : "सब करते हैं",
-  "word" : "ALL PEOPLE DO"
-}, {
-  "mean" : "सरोवरेषु",
-  "h_mean" : "सरोवरों में",
-  "word" : "IN LAKES"
-}, {
-  "mean" : "वसन्ति",
-  "h_mean" : "वे रहते हैं",
-  "word" : "THEY LIVES"
-}, {
-  "mean" : "पाटलानि",
-  "h_mean" : "सब गुलाब",
-  "word" : "ALL ROSES"
-}, {
-  "mean" : "धावन्ति",
-  "h_mean" : "सब भागते हैं",
-  "word" : "ALL RUN"
-}, {
-  "mean" : "विद्यालयाः",
-  "h_mean" : "सारे स्कुल",
-  "word" : "ALL SCHOOL"
-}, {
-  "mean" : "छात्राः",
-  "h_mean" : "सब छात्र",
-  "word" : "ALL STUDENT"
-}, {
-  "mean" : "छात्राः",
-  "h_mean" : "सारे छात्र",
-  "word" : "ALL STUDENTS"
-}, {
-  "mean" : "अध्यापिकान्",
-  "h_mean" : "सब अध्यापिका को",
-  "word" : "TO ALL TEACHERS"
-}, {
-  "mean" : "ते",
-  "h_mean" : "वह सब",
-  "word" : "ALL THAT"
-}, {
-  "mean" : "इमानि",
-  "h_mean" : "सब सामान",
-  "word" : "ALL THINGS"
-}, {
-  "mean" : "चक्राणि",
-  "h_mean" : "सब पहिया",
-  "word" : "ALL WHEEL"
-}, {
-  "mean" : "कैः",
-  "h_mean" : "सब किससे",
-  "word" : "ALL WITH WHOM"
-}, {
-  "mean" : "महिलाः",
-  "h_mean" : "औरते",
-  "word" : "ALL WOMEN"
-}, {
-  "mean" : "सहैव",
-  "h_mean" : "साथ हि",
-  "word" : "ALONG WITH"
-}, {
-  "mean" : "पुरा",
-  "h_mean" : "प्राचिन काल",
-  "word" : "ANCIENT PERIOD"
-}, {
-  "mean" : "वार्षिकोत्सवः",
-  "h_mean" : "वार्षिकोत्सव",
-  "word" : "ANNUAL FUNCTION"
-}, {
-  "mean" : "कमपि",
-  "h_mean" : "कोई भी",
-  "word" : "ANY"
-}, {
-  "mean" : "कश्चिद्",
-  "h_mean" : "कोइ",
-  "word" : "ANY"
-}, {
-  "mean" : "वर्तन्ते",
-  "h_mean" : "हैं",
-  "word" : "ARE"
-}, {
-  "mean" : "जीवन्ति",
-  "h_mean" : "जिवन",
-  "word" : "ARE LIVING"
-}, {
-  "mean" : "असि",
-  "h_mean" : "आप हैं",
-  "word" : "ARE YOU"
-}, {
-  "mean" : "भ्रमन्ति",
-  "h_mean" : "घुमता हैं",
-  "word" : "AROUND"
-}, {
-  "mean" : "कथनानुसारम्",
-  "h_mean" : "कथन के अनुसार",
-  "word" : "AS PER STATEMENT"
-}, {
-  "mean" : "अवतारः",
-  "h_mean" : "अवतार",
-  "word" : "AVATAR"
-}, {
-  "mean" : "दुरं",
-  "h_mean" : "दुर",
-  "word" : "AWAY"
-}, {
-  "mean" : "कन्दुकेन",
-  "h_mean" : "गेंद",
-  "word" : "BALL"
-}, {
-  "mean" : "अभषत्",
-  "h_mean" : "भौंका",
-  "word" : "BARKED"
-}, {
-  "mean" : "स्नानम्",
-  "h_mean" : "स्नान",
-  "word" : "BATH"
-}, {
-  "mean" : "स्नात्वा",
-  "h_mean" : "स्नान करके",
-  "word" : "BATHING"
-}, {
-  "mean" : "पदेन",
-  "h_mean" : "पद से",
-  "word" : "BE POSITION"
-}, {
-  "mean" : "पर्यडकेषु",
-  "h_mean" : "पलंग",
-  "word" : "BED"
-}, {
-  "mean" : "चतुर्दश वर्षाणामुपरान्तॅं",
-  "h_mean" : "चोदह वर्ष के बाद",
-  "word" : "BEFORE FOURTEEN YEARS"
-}, {
-  "mean" : "मैत्रीम्",
-  "h_mean" : "मित्रता",
-  "word" : "BEFRIENDED"
-}, {
-  "mean" : "भिक्षुकः",
-  "h_mean" : "भिखारी",
-  "word" : "BEGGAR"
-}, {
-  "mean" : "शीलम्",
-  "h_mean" : "आचरण",
-  "word" : "BEHAVIOUR"
-}, {
-  "mean" : "अग्रजः",
-  "h_mean" : "बडा भाई",
-  "word" : "BIG BROTHER"
-}, {
-  "mean" : "खगाः",
-  "h_mean" : "चिङियाए",
-  "word" : "BIRDS"
-}, {
-  "mean" : "शवाकाः",
-  "h_mean" : "चुजा",
-  "word" : "BIRDS KIDS"
-}, {
-  "mean" : "जन्मदिवसः",
-  "h_mean" : "जन्मदिन",
-  "word" : "BIRTHDAY"
-}, {
-  "mean" : "आशीर्वादः",
-  "h_mean" : "आशीर्वाद",
-  "word" : "BLESSINGS"
-}, {
-  "mean" : "अन्धः",
-  "h_mean" : "अन्धा",
-  "word" : "BLIND"
-}, {
-  "mean" : "पुस्तकम्",
-  "h_mean" : "किताब",
-  "word" : "BOOK"
-}, {
-  "mean" : "अगच्छताम्",
-  "h_mean" : "दोनो गए",
-  "word" : "BOTH HAD GONE"
-}, {
-  "mean" : "अमिलताम्",
-  "h_mean" : "दोनो मिले",
-  "word" : "BOTH MEET"
-}, {
-  "mean" : "आवयोः",
-  "h_mean" : "हम दोनो के",
-  "word" : "BOTH OF US"
-}, {
-  "mean" : "आवाम्",
-  "h_mean" : "हम दोनो",
-  "word" : "BOTH OF US"
-}, {
-  "mean" : "अभ्रमताम्",
-  "h_mean" : "दोनो घुमे",
-  "word" : "BOTH TURN AROUND"
-}, {
-  "mean" : "अगच्छताम्",
-  "h_mean" : "दोनो गए",
-  "word" : "BOTH WENT"
-}, {
-  "mean" : "नतमस्तकः",
-  "h_mean" : "सिर झुकाना",
-  "word" : "BOW YOUR HEAD"
-}, {
-  "mean" : "दन्तमञजनं",
-  "h_mean" : "दात साफ करने",
-  "word" : "BRUSHING"
-}, {
-  "mean" : "अदहत्",
-  "h_mean" : "जलाना",
-  "word" : "BURN"
-}, {
-  "mean" : "प्रज्वलति",
-  "h_mean" : "जलता है",
-  "word" : "BURNS"
-}, {
-  "mean" : "बसयानेन",
-  "h_mean" : "बस से",
-  "word" : "BUS TO"
-}, {
-  "mean" : "शौनकस्य",
-  "h_mean" : "कसाई की",
-  "word" : "BUTCHER'S"
-}, {
-  "mean" : "पृष्टवा",
-  "h_mean" : "पुछकर",
-  "word" : "BY ASKING"
-}, {
-  "mean" : "व्यवहारेण",
-  "h_mean" : "व्यवहार से",
-  "word" : "BY BEHAVIOUR"
-}, {
-  "mean" : "स्थित्वा",
-  "h_mean" : "स्थिर होकर",
-  "word" : "BY BEING STEADY"
-}, {
-  "mean" : "आगत्य",
-  "h_mean" : "आकर के",
-  "word" : "BY COMING"
-}, {
-  "mean" : "कृत्वा",
-  "h_mean" : "करके",
-  "word" : "BY DOING"
-}, {
-  "mean" : "नीत्वा",
-  "h_mean" : "देकर",
-  "word" : "BY GIVING"
-}, {
-  "mean" : "रचयसि",
-  "h_mean" : "बनाकर",
-  "word" : "BY MAKING IT"
-}, {
-  "mean" : "आज्ञया",
-  "h_mean" : "आज्ञा से",
-  "word" : "BY ORDER"
-}, {
-  "mean" : "गुहायां",
-  "h_mean" : "गुफा",
-  "word" : "CAVE"
-}, {
-  "mean" : "परोपकाराय",
-  "h_mean" : "परोपकार के लिए",
-  "word" : "CHARITY"
-}, {
-  "mean" : "बालाः",
-  "h_mean" : "सारे बच्चे",
-  "word" : "CHILDREN"
-}, {
-  "mean" : "कक्षाप्रमुखः",
-  "h_mean" : "कक्षाप्रमुख",
-  "word" : "CLASS MONITOR"
-}, {
-  "mean" : "स्वच्छ",
-  "h_mean" : "साफ",
-  "word" : "CLEAN"
-}, {
-  "mean" : "स्वच्छ वस्त्राणि",
-  "h_mean" : "साफ कपड़े",
-  "word" : "CLEAN CLOTHES"
-}, {
-  "mean" : "अवतरणः",
-  "h_mean" : "चढता हैं",
-  "word" : "CLIMBS UP"
-}, {
-  "mean" : "वस्त्राणि",
-  "h_mean" : "सब वस्त्र",
-  "word" : "CLOTHS"
-}, {
-  "mean" : "दशागुल्याः",
-  "h_mean" : "दशगुल्ला",
-  "word" : "COIN BOX"
-}, {
-  "mean" : "आगत्य",
-  "h_mean" : "आकर",
-  "word" : "COME"
-}, {
-  "mean" : "आनयति",
-  "h_mean" : "आता हैं",
-  "word" : "COME"
-}, {
-  "mean" : "आगत्य",
-  "h_mean" : "आ कर",
-  "word" : "COMES"
-}, {
-  "mean" : "अवतरतः",
-  "h_mean" : "उतरता हैं",
-  "word" : "COMES DOWN"
-}, {
-  "mean" : "परिसरे",
-  "h_mean" : "परिसर",
-  "word" : "COMPOUND"
-}, {
-  "mean" : "साहसम्",
-  "h_mean" : "हिम्मत",
-  "word" : "COURAGE"
-}, {
-  "mean" : "भीरुः",
-  "h_mean" : "डरपोक",
-  "word" : "COWARD"
-}, {
-  "mean" : "धनम्",
-  "h_mean" : "पेसा",
-  "word" : "CURRENCY"
-}, {
-  "mean" : "दैनिक क्रियाएँ",
-  "h_mean" : "नित्यकर्माणि",
-  "word" : "DAILY ACTIONS"
-}, {
-  "mean" : "नित्यकर्माणि",
-  "h_mean" : "दैनिक क्रियाए",
-  "word" : "DAILY ACTIONS"
-}, {
-  "mean" : "छलेन",
-  "h_mean" : "धोखे से",
-  "word" : "DECEPTION"
-}, {
-  "mean" : "साहसी",
-  "h_mean" : "साहसी",
-  "word" : "DARING"
-}, {
-  "mean" : "परश्वः",
-  "h_mean" : "परसो",
-  "word" : "DAY AFTER TOMORROW"
-}, {
-  "mean" : "वै",
-  "h_mean" : "निश्चय",
-  "word" : "DECIDE"
-}, {
-  "mean" : "विभूषितः",
-  "h_mean" : "विभूषित",
-  "word" : "DECORATED"
-}, {
-  "mean" : "दुर्जनों",
-  "h_mean" : "दुशमन",
-  "word" : "DEVIL"
-}, {
-  "mean" : "रिपुः",
-  "h_mean" : "दुश्मन",
-  "word" : "DEVIL"
-}, {
-  "mean" : "रात्रिभोजन",
-  "h_mean" : "रात का भोजन",
-  "word" : "DINNER"
-}, {
-  "mean" : "मलिनतां",
-  "h_mean" : "गन्दगी",
-  "word" : "DIRTY"
-}, {
-  "mean" : "करोषि",
-  "h_mean" : "तुम करते हो",
-  "word" : "DO YOU DO"
-}, {
-  "mean" : "करोति",
-  "h_mean" : "करता हैं",
-  "word" : "DOES"
-}, {
-  "mean" : "कुक्कुरः",
-  "h_mean" : "कुत्ता",
-  "word" : "DOG"
-}, {
-  "mean" : "अधः",
-  "h_mean" : "नीचे",
-  "word" : "DOWN"
-}, {
-  "mean" : "पिबति",
-  "h_mean" : "पीता है",
-  "word" : "DRINKING"
-}, {
-  "mean" : "कर्तव्यम्",
-  "h_mean" : "कर्तव्य",
-  "word" : "DUTY"
-}, {
-  "mean" : "खादामि",
-  "h_mean" : "खाता हैं",
-  "word" : "EAT"
-}, {
-  "mean" : "आपत्काले",
-  "h_mean" : "मुसिबत के समय मे",
-  "word" : "EMERGENCY"
-}, {
-  "mean" : "नाशः",
-  "h_mean" : "खत्म",
-  "word" : "END"
-}, {
-  "mean" : "चापि",
-  "h_mean" : "और भी",
-  "word" : "EVEN MORE"
-}, {
-  "mean" : "सायंकाले",
-  "h_mean" : "शाम के समय",
-  "word" : "EVENING TIME"
-}, {
-  "mean" : "आगमिष्यामः",
-  "h_mean" : "सब आएगे",
-  "word" : "EVERYBODY WILL COME"
-}, {
-  "mean" : "के",
-  "h_mean" : "सब कौन",
-  "word" : "EVERYONE WHO"
-}, {
-  "mean" : "अतीव",
-  "h_mean" : "अत्यधिक",
-  "word" : "EXCESSIVE"
-}, {
-  "mean" : "व्यायमम्",
-  "h_mean" : "योगा",
-  "word" : "EXERCISE"
-}, {
-  "mean" : "प्रदर्शयन्तु",
-  "h_mean" : "प्रदर्शयन",
-  "word" : "EXHIBITION"
-}, {
-  "mean" : "मुखम्",
-  "h_mean" : "मुख",
-  "word" : "FACE"
-}, {
-  "mean" : "व्यजनम्",
-  "h_mean" : "पंखा",
-  "word" : "FAN"
-}, {
-  "mean" : "कृषकः",
-  "h_mean" : "किसान",
-  "word" : "FARMER"
-}, {
-  "mean" : "जनकः",
-  "h_mean" : "पिता",
-  "word" : "FATHER"
-}, {
-  "mean" : "निर्भीकः",
-  "h_mean" : "निङर",
-  "word" : "FEARLESS"
-}, {
-  "mean" : "अन्वशोचत्",
-  "h_mean" : "दुखी हुआ",
-  "word" : "FELT SAD"
-}, {
-  "mean" : "युध्दम्",
-  "h_mean" : "युध्द",
-  "word" : "FIGHT"
-}, {
-  "mean" : "सर्वप्रथमं",
-  "h_mean" : "सबसे पहले",
-  "word" : "FIRST OF ALL"
-}, {
-  "mean" : "मालाकारः",
-  "h_mean" : "फूल वाला",
-  "word" : "GARLAND MAKER"
-}, {
-  "mean" : "पलायितः",
-  "h_mean" : "पलायन",
-  "word" : "RAN AWAY"
-}, {
-  "mean" : "भोजनं",
-  "h_mean" : "भोजन को",
-  "word" : "FOOD"
-}, {
-  "mean" : "विनाशाय",
-  "h_mean" : "विनाश के लिए",
-  "word" : "FOR DESTRUCTION"
-}, {
-  "mean" : "भोजनाय",
-  "h_mean" : "खाने के लिए",
-  "word" : "FOR FOOD"
-}, {
-  "mean" : "तस्मै",
-  "h_mean" : "उसके लिए",
-  "word" : "FOR HIM"
-}, {
-  "mean" : "देवेभ्यः",
-  "h_mean" : "देवताऔ के लिए",
-  "word" : "FOR THE GODS"
-}, {
-  "mean" : "प्रकाशाय",
-  "h_mean" : "रोशनी के लिए",
-  "word" : "FOR THE LIGHT"
-}, {
-  "mean" : "याचकाय",
-  "h_mean" : "गरीब के लिए",
-  "word" : "FOR THE POOR"
-}, {
-  "mean" : "वने",
-  "h_mean" : "जंगल",
-  "word" : "FOREST"
-}, {
-  "mean" : "चत्वारि",
-  "h_mean" : "चार",
-  "word" : "FOUR"
-}, {
-  "mean" : "चतुर्दश",
-  "h_mean" : "चोदह",
-  "word" : "FOURTEEN"
-}, {
-  "mean" : "मित्रम्",
-  "h_mean" : "दोस्त",
-  "word" : "FRIENDS"
-}, {
-  "mean" : "सृहृद्",
-  "h_mean" : "दोस्त",
-  "word" : "FRIENDS"
-}, {
-  "mean" : "परोक्षे",
-  "h_mean" : "पीचे से",
-  "word" : "FROM BEHIND"
-}, {
-  "mean" : "कक्षायाः",
-  "h_mean" : "कक्षा से",
-  "word" : "FROM CLASS"
-}, {
-  "mean" : "दण्डेन",
-  "h_mean" : "डंडा",
-  "word" : "FROM STICK"
-}, {
-  "mean" : "राक्षसेन",
-  "h_mean" : "राक्षस से",
-  "word" : "FROM THE MONSTER"
-}, {
-  "mean" : "नेत्राभ्याम्",
-  "h_mean" : "दो आखो से",
-  "word" : "FROM THE TWO EYES"
-}, {
-  "mean" : "मालाः",
-  "h_mean" : "माला",
-  "word" : "GARLAND"
-}, {
-  "mean" : "अयच्छत्",
-  "h_mean" : "दिया",
-  "word" : "GAVE"
-}, {
-  "mean" : "बालिका",
-  "h_mean" : "लडकी",
-  "word" : "GIRL"
-}, {
-  "mean" : "छात्रा",
-  "h_mean" : "छात्रा",
-  "word" : "GIRL STUDENT"
-}, {
-  "mean" : "यच्छति",
-  "h_mean" : "देना",
-  "word" : "GIVE"
-}, {
-  "mean" : "काभ्याम्",
-  "h_mean" : "दो किसको",
-  "word" : "GIVE TO WHOM"
-}, {
-  "mean" : "ईश्वरं",
-  "h_mean" : "ईश्वर",
-  "word" : "GOD"
-}, {
-  "mean" : "सुवर्ण",
-  "h_mean" : "सोना",
-  "word" : "GOLD"
-}, {
-  "mean" : "शुध्दवायुं",
-  "h_mean" : "अच्छी वायु",
-  "word" : "GOOD AIR"
-}, {
-  "mean" : "आदर्शः",
-  "h_mean" : "अच्छे इन्सान",
-  "word" : "GOOD HUMAN"
-}, {
-  "mean" : "अकारयत्",
-  "h_mean" : "करवाया",
-  "word" : "GOT IN DONE"
-}, {
-  "mean" : "पितामहः",
-  "h_mean" : "बाबा",
-  "word" : "GRANDFATHER"
-}, {
-  "mean" : "पोत्रः",
-  "h_mean" : "पोता",
-  "word" : "GRANDSON"
-}, {
-  "mean" : "लुब्धः",
-  "h_mean" : "लालची",
-  "word" : "GREEDY"
-}, {
-  "mean" : "नमामः",
-  "h_mean" : "प्रणाम",
-  "word" : "GREETINGS"
-}, {
-  "mean" : "प्रणमन्ति",
-  "h_mean" : "सब को प्रणाम",
-  "word" : "GREETINGS TO ALL"
-}, {
-  "mean" : "हस्तौ",
-  "h_mean" : "हाथ",
-  "word" : "HANDS"
-}, {
-  "mean" : "प्रसीदति",
-  "h_mean" : "प्रसन्न होते हैं",
-  "word" : "HAPPINESS"
-}, {
-  "mean" : "प्रसन्नाः",
-  "h_mean" : "खुश",
-  "word" : "HAPPY"
-}, {
-  "mean" : "इतस्ततः",
-  "h_mean" : "इधर उधर",
-  "word" : "HARE AND THERE"
-}, {
-  "mean" : "सः",
-  "h_mean" : "वह",
-  "word" : "HE"
-}, {
-  "mean" : "ते",
-  "h_mean" : "वह सब",
-  "word" : "HE ALL"
-}, {
-  "mean" : "जानाति",
-  "h_mean" : "जानता हैं",
-  "word" : "HE KNOWS"
-}, {
-  "mean" : "पतिज्ञाम्",
-  "h_mean" : "प्रतिज्ञा",
-  "word" : "HE MADE A PROMISE"
-}, {
-  "mean" : "स्वस्थः",
-  "h_mean" : "स्वास्थ",
-  "word" : "HEALTH"
-}, {
-  "mean" : "नमतः",
-  "h_mean" : "नमस्कार",
-  "word" : "HELLO"
-}, {
-  "mean" : "अत्र",
-  "h_mean" : "यहांॅ",
-  "word" : "HERE"
-}, {
-  "mean" : "इतस्ततः",
-  "h_mean" : "ईधर उधर",
-  "word" : "HERE-THERE"
-}, {
-  "mean" : "गृह",
-  "h_mean" : "घर",
-  "word" : "HOME"
-}, {
-  "mean" : "गृह कार्यम्",
-  "h_mean" : "गृह कार्य",
-  "word" : "HOME WORK"
-}, {
-  "mean" : "अश्वात्",
-  "h_mean" : "घौड़े से",
-  "word" : "HORSE TO"
-}, {
-  "mean" : "कति",
-  "h_mean" : "कितने",
-  "word" : "HOW"
-}, {
-  "mean" : "कैैसा",
-  "h_mean" : "कीदृशम्",
-  "word" : "HOW"
-}, {
-  "mean" : "नरः",
-  "h_mean" : "मनुष्य",
-  "word" : "HUMAN"
-}, {
-  "mean" : "नरः",
-  "h_mean" : "मनुष्य",
-  "word" : "Human"
-}, {
-  "mean" : "नरः",
-  "h_mean" : "नर",
-  "word" : "HUMAN"
-}, {
-  "mean" : "क्षधितः",
-  "h_mean" : "भुखा",
-  "word" : "HUNGRY"
-}, {
-  "mean" : "त्रोटयामि",
-  "h_mean" : "मैं तोड़ती है",
-  "word" : "I BREAK"
-}, {
-  "mean" : "वसामि",
-  "h_mean" : "रहता हुॅं",
-  "word" : "I LIVE"
-}, {
-  "mean" : "द्रक्ष्यामि",
-  "h_mean" : "देखता हॅुं",
-  "word" : "I SEE"
-}, {
-  "mean" : "वाञ्छामि",
-  "h_mean" : "में चाहता हॅं",
-  "word" : "I WANT TO"
-}, {
-  "mean" : "अहं पराजयं स्वीकर्तास्मि",
-  "h_mean" : "हार मानुगा",
-  "word" : "I WILL ACCEPT DEFEAT"
-}, {
-  "mean" : "आहुयताम्",
-  "h_mean" : "तुम दोनों जाओगे",
-  "word" : "YOU BOTH WILL GO"
-}, {
-  "mean" : "चलिष्यामि",
-  "h_mean" : "चलुगा",
-  "word" : "I WILL GO"
-}, {
-  "mean" : "निवत्स्यामि",
-  "h_mean" : "रहुगा",
-  "word" : "I WILL STAY"
-}, {
-  "mean" : "मध्यावकाशे",
-  "h_mean" : "दोपहर की छुटटी",
-  "word" : "IN AFTERNOON HOLIDAY"
-}, {
-  "mean" : "विदयालयेषु",
-  "h_mean" : "विदयालय में",
-  "word" : "IN ALL SCHOOL"
-}, {
-  "mean" : "देवालयेषु",
-  "h_mean" : "सब मंन्दिर",
-  "word" : "IN ALL TEMPLE"
-}, {
-  "mean" : "सेतोः",
-  "h_mean" : "पुल में",
-  "word" : "IN BRIDGE"
-}, {
-  "mean" : "सायकाले",
-  "h_mean" : "शाम के समय",
-  "word" : "IN EVENING"
-}, {
-  "mean" : "वने",
-  "h_mean" : "वन मे",
-  "word" : "IN FOREST"
-}, {
-  "mean" : "प्रासादेषु",
-  "h_mean" : "किला मे",
-  "word" : "IN FORT"
-}, {
-  "mean" : "सम्मुखम्",
-  "h_mean" : "मेरे सामने",
-  "word" : "IN FRONT OF ME"
-}, {
-  "mean" : "पुस्तकालयेषु",
-  "h_mean" : "पुस्तकालय में",
-  "word" : "IN LIBRARY"
-}, {
-  "mean" : "जीवने",
-  "h_mean" : "जीवन में",
-  "word" : "IN LIFE"
-}, {
-  "mean" : "क्रडाक्षेत्रे",
-  "h_mean" : "खेलने का मेदान मे",
-  "word" : "IN PLAYGROUND"
-}, {
-  "mean" : "पात्रेषु",
-  "h_mean" : "बर्तनो मे",
-  "word" : "IN POTS"
-}, {
-  "mean" : "मार्गे",
-  "h_mean" : "रास्ते में",
-  "word" : "IN ROUTE"
-}, {
-  "mean" : "आकाशे",
-  "h_mean" : "आकाश में",
-  "word" : "IN SKY"
-}, {
-  "mean" : "आपणे",
-  "h_mean" : "बाजार में",
-  "word" : "IN THE MARKET"
-}, {
-  "mean" : "वृध्दिकाले",
-  "h_mean" : "उन्नति के समय में",
-  "word" : "IN THE OF PROGRESS"
-}, {
-  "mean" : "व्यसनेषु",
-  "h_mean" : "मुसीबतो में",
-  "word" : "IN TROUBLE"
-}, {
-  "mean" : "गृहयोः",
-  "h_mean" : "दो घरो में",
-  "word" : "IN TWO HOUSE"
-}, {
-  "mean" : "ग्रामे",
-  "h_mean" : "गाॅंव में",
-  "word" : "IN VILLAGE"
-}, {
-  "mean" : "जले",
-  "h_mean" : "जल में",
-  "word" : "IN WATER"
-}, {
-  "mean" : "अनिवार्यम्",
-  "h_mean" : "जरुरी",
-  "word" : "IMPORTANT"
-}, {
-  "mean" : "बुध्दिः",
-  "h_mean" : "बुध्दि",
-  "word" : "INTELLIGENCE"
-}, {
-  "mean" : "मतिः",
-  "h_mean" : "बुध्दि",
-  "word" : "INTELLIGENCE"
-}, {
-  "mean" : "परिचयम्",
-  "h_mean" : "परिचय",
-  "word" : "INTRODUCTION"
-}, {
-  "mean" : "असि",
-  "h_mean" : "हो जाए",
-  "word" : "IS DONE"
-}, {
-  "mean" : "आगच्छति",
-  "h_mean" : "आता हैं",
-  "word" : "IT COMES"
-}, {
-  "mean" : "अनशयत्",
-  "h_mean" : "नष्ट हो गया",
-  "word" : "IT WAS DESTROYED"
-}, {
-  "mean" : "मारयन्ति",
-  "h_mean" : "कइ सारे लोगो को मारता है",
-  "word" : "KILLS A LOT OF PEOPLE"
-}, {
-  "mean" : "नृपः",
-  "h_mean" : "राजा",
-  "word" : "KING"
-}, {
-  "mean" : "उद्यमः",
-  "h_mean" : "मेहनत",
-  "word" : "LABOR"
-}, {
-  "mean" : "स्मरति",
-  "h_mean" : "याद करते हैं",
-  "word" : "LEARN"
-}, {
-  "mean" : "पत्राणि",
-  "h_mean" : "पत्तिया",
-  "word" : "LEAVES"
-}, {
-  "mean" : "चरणैः",
-  "h_mean" : "पेर",
-  "word" : "LEGS"
-}, {
-  "mean" : "चलिषयावः",
-  "h_mean" : "हम दोनो चलते हैं",
-  "word" : "LET US BOTH GO"
-}, {
-  "mean" : "उत्तष्ठति",
-  "h_mean" : "उठते हैं",
-  "word" : "LET'GET UP"
-}, {
-  "mean" : "पुस्तकालयात्",
-  "h_mean" : "पुस्तकालय",
-  "word" : "LIBRARY"
-}, {
-  "mean" : "पुस्तकालयात्",
-  "h_mean" : "पुस्तकालय से",
-  "word" : "LIBRARY"
-}, {
-  "mean" : "सूचीबध्दान",
-  "h_mean" : "सूचीकरणम्",
-  "word" : "LIST"
-}, {
-  "mean" : "सिहः",
-  "h_mean" : "शेर",
-  "word" : "LOIN"
-}, {
-  "mean" : "कमलम्",
-  "h_mean" : "कमल",
-  "word" : "LOTUS"
-}, {
-  "mean" : "अलुभ्यत्",
-  "h_mean" : "लोभ किया",
-  "word" : "MADE A PROFIT"
-}, {
-  "mean" : "रचयति",
-  "h_mean" : "बनाता हैं",
-  "word" : "MAKE"
-}, {
-  "mean" : "आम्रम्",
-  "h_mean" : "आम",
-  "word" : "MANGO"
-}, {
-  "mean" : "माम्",
-  "h_mean" : "मुझे",
-  "word" : "ME"
-}, {
-  "mean" : "अथार्त",
-  "h_mean" : "अथर्",
-  "word" : "MEANING"
-}, {
-  "mean" : "मांसस्य",
-  "h_mean" : "मांस की",
-  "word" : "MEAT"
-}, {
-  "mean" : "दुग्धं",
-  "h_mean" : "दुध",
-  "word" : "MILK"
-}, {
-  "mean" : "वानराः",
-  "h_mean" : "बंदर",
-  "word" : "MONKEYS"
-}, {
-  "mean" : "अतिलोभः",
-  "h_mean" : "अधिक लालच",
-  "word" : "MORE GREED"
-}, {
-  "mean" : "प्रभात",
-  "h_mean" : "सुबह",
-  "word" : "MORNING"
-}, {
-  "mean" : "प्रातः",
-  "h_mean" : "सुबह",
-  "word" : "MORNING"
-}, {
-  "mean" : "ब्रह्म मुहुर्ते",
-  "h_mean" : "सुबह ४ बजे",
-  "word" : "MORNING 4'O CLOCK"
-}, {
-  "mean" : "मांॅ",
-  "h_mean" : "अम्बा",
-  "word" : "MOTHER"
-}, {
-  "mean" : "मातुः",
-  "h_mean" : "माता का",
-  "word" : "MOTHER'S"
-}, {
-  "mean" : "मातुलस्य",
-  "h_mean" : "मामा का",
-  "word" : "MOTHER'S BROTHER"
-}, {
-  "mean" : "मम",
-  "h_mean" : "मेरा",
-  "word" : "MY"
-}, {
-  "mean" : "मया",
-  "h_mean" : "मेरे",
-  "word" : "MY"
-}, {
-  "mean" : "आनयामि",
-  "h_mean" : "मैं आता हुॅं",
-  "word" : "MY COME"
-}, {
-  "mean" : "स्वमित्रै",
-  "h_mean" : "अपने मित्र",
-  "word" : "MY FRIENDS"
-}, {
-  "mean" : "स्वमातरं पितरं",
-  "h_mean" : "मेरे माता पिता",
-  "word" : "MY PARENTS"
-}, {
-  "mean" : "स्व प्रतिबिम्बम्",
-  "h_mean" : "अपनी परछाई",
-  "word" : "MY SHADOW"
-}, {
-  "mean" : "स्वभगिन्य",
-  "h_mean" : "मेरी बहन",
-  "word" : "MY SISTER"
-}, {
-  "mean" : "स्वाध्यायं",
-  "h_mean" : "अपनी पढाई",
-  "word" : "MY STUDY"
-}, {
-  "mean" : "अभिधानं",
-  "h_mean" : "नाम",
-  "word" : "NAME"
-}, {
-  "mean" : "अभिधानानि",
-  "h_mean" : "नाम",
-  "word" : "NAME"
-}, {
-  "mean" : "नीङे",
-  "h_mean" : "घोसला",
-  "word" : "NESTS"
-}, {
-  "mean" : "समाचारपत्रं",
-  "h_mean" : "अखबार",
-  "word" : "NEWSPAPER"
-}, {
-  "mean" : "न",
-  "h_mean" : "नही",
-  "word" : "NO"
-}, {
-  "mean" : "नहि",
-  "h_mean" : "नही",
-  "word" : "NO"
-}, {
-  "mean" : "नास्ति",
-  "h_mean" : "नही",
-  "word" : "NOT"
-}, {
-  "mean" : "प्रत्यक्षे",
-  "h_mean" : "आगे से",
-  "word" : "NOW ONWARDS"
-}, {
-  "mean" : "अन्धकारस्य",
-  "h_mean" : "अन्धकार का",
-  "word" : "OF DARKNESS"
-}, {
-  "mean" : "मृत्योः",
-  "h_mean" : "मृत्यु के",
-  "word" : "OF DEATH"
-}, {
-  "mean" : "ईश्वरस्य",
-  "h_mean" : "भगवान के",
-  "word" : "OF GOD"
-}, {
-  "mean" : "नाटकस्य",
-  "h_mean" : "नाटक के",
-  "word" : "OF THE PLAY"
-}, {
-  "mean" : "अस्तु",
-  "h_mean" : "ठीक हैं",
-  "word" : "OK"
-}, {
-  "mean" : "वृद्धः",
-  "h_mean" : "बुड़ा",
-  "word" : "OLD MEN"
-}, {
-  "mean" : "आसन्दिकायाम्",
-  "h_mean" : "कुर्सी पर",
-  "word" : "ON CHAIR"
-}, {
-  "mean" : "एकस्मिन्",
-  "h_mean" : "एक बार",
-  "word" : "ONCE"
-}, {
-  "mean" : "एकदा",
-  "h_mean" : "एक बार",
-  "word" : "ONCE UPON"
-}, {
-  "mean" : "अपरम्",
-  "h_mean" : "एक और",
-  "word" : "ONE MORE"
-}, {
-  "mean" : "धावति",
-  "h_mean" : "दौडना",
-  "word" : "ONE PEOPLE RUN"
-}, {
-  "mean" : "पठति",
-  "h_mean" : "पढता हैं",
-  "word" : "ONE PERSON STUDIES"
-}, {
-  "mean" : "एव",
-  "h_mean" : "ही",
-  "word" : "ONLY"
-}, {
-  "mean" : "एवम्",
-  "h_mean" : "ही",
-  "word" : "ONLY"
-}, {
-  "mean" : "केवलम्",
-  "h_mean" : "केवल",
-  "word" : "ONLY"
-}, {
-  "mean" : "विदेशेषु",
-  "h_mean" : "विदेश",
-  "word" : "OTHER COUNTRIES"
-}, {
-  "mean" : "परलोके",
-  "h_mean" : "दुसरे लोक",
-  "word" : "OTHER WORLD"
-}, {
-  "mean" : "बहिः",
-  "h_mean" : "बहार",
-  "word" : "OUT"
-}, {
-  "mean" : "उद्यानम्",
-  "h_mean" : "बगीचा",
-  "word" : "PARK"
-}, {
-  "mean" : "धैर्यम्",
-  "h_mean" : "सब्र",
-  "word" : "PATIENCE"
-}, {
-  "mean" : "खण्डम्",
-  "h_mean" : "टुकडा",
-  "word" : "PIECE"
-}, {
-  "mean" : "्रक्रीडति",
-  "h_mean" : "एक जना खैलता हैं",
-  "word" : "PLAY"
-}, {
-  "mean" : "क्रीडन्ति",
-  "h_mean" : "सब खैलता हैं",
-  "word" : "PLAYS"
-}, {
-  "mean" : "सुखिनः",
-  "h_mean" : "सुख से",
-  "word" : "PLEASURE"
-}, {
-  "mean" : "हलम्",
-  "h_mean" : "हल",
-  "word" : "PLOUGH"
-}, {
-  "mean" : "त्रोटयति",
-  "h_mean" : "तोडता हें",
-  "word" : "PLUCK"
-}, {
-  "mean" : "विषकुम्भम्",
-  "h_mean" : "जहर का मटका",
-  "word" : "POISON POT"
-}, {
-  "mean" : "शक्तिः",
-  "h_mean" : "शक्ति",
-  "word" : "POWER"
-}, {
-  "mean" : "सज्जाः",
-  "h_mean" : "तैयार",
-  "word" : "PREPARED"
-}, {
-  "mean" : "प्राचार्यः",
-  "h_mean" : "प्रधानाध्यापक",
-  "word" : "PRINCIPAL"
-}, {
-  "mean" : "अपितु",
-  "h_mean" : "बल्कि",
-  "word" : "RATHER"
-}, {
-  "mean" : "प्राप्नोति",
-  "h_mean" : "प्राप्त करता हैं",
-  "word" : "RECEIVES"
-}, {
-  "mean" : "धर्मः",
-  "h_mean" : "धर्म",
-  "word" : "RELIGION"
-}, {
-  "mean" : "विश्राम्",
-  "h_mean" : "आराम",
-  "word" : "REST"
-}, {
-  "mean" : "प्रत्यागच्छत्",
-  "h_mean" : "लोटे",
-  "word" : "RETURNED"
-}, {
-  "mean" : "नदी",
-  "h_mean" : "नदी",
-  "word" : "RIVER"
-}, {
-  "mean" : "मालाकारः",
-  "h_mean" : "मालाकार",
-  "word" : "Garland maker"
-}, {
-  "mean" : "जपमाला",
-  "h_mean" : "जपमाला",
-  "word" : "ROSARY"
-}, {
-  "mean" : "पाटलम्",
-  "h_mean" : "गुलाब",
-  "word" : "ROSE"
-}, {
-  "mean" : "नियोज्य",
-  "h_mean" : "नियम",
-  "word" : "RULES"
-}, {
-  "mean" : "धावन्ति",
-  "h_mean" : "भागना",
-  "word" : "RUN"
-}, {
-  "mean" : "अधावत्",
-  "h_mean" : "भागता है",
-  "word" : "RUNNING"
-}, {
-  "mean" : "प्रणमति",
-  "h_mean" : "प्रणाम करता है",
-  "word" : "SALUTES"
-}, {
-  "mean" : "अपश्यत्",
-  "h_mean" : "देखा",
-  "word" : "SAW"
-}, {
-  "mean" : "विद्यालयं",
-  "h_mean" : "विद्यालय",
-  "word" : "SCHOOL"
-}, {
-  "mean" : "छाया",
-  "h_mean" : "परछाई",
-  "word" : "SHADOW"
-}, {
-  "mean" : "इयम्",
-  "h_mean" : "यह लडकी को",
-  "word" : "SHE"
-}, {
-  "mean" : "ताः",
-  "h_mean" : "वह सब",
-  "word" : "SHE ALL"
-}, {
-  "mean" : "शंखानाम्",
-  "h_mean" : "शंख",
-  "word" : "SHELL"
-}, {
-  "mean" : "पण्यगृहम्",
-  "h_mean" : "दुकान",
-  "word" : "SHOP"
-}, {
-  "mean" : "रजत",
-  "h_mean" : "चादी",
-  "word" : "SILVER"
-}, {
-  "mean" : "बाल्यात्",
-  "h_mean" : "बचपन से",
-  "word" : "SINCE CHILDHOOD"
-}, {
-  "mean" : "गायति",
-  "h_mean" : "गाता हैं",
-  "word" : "SINGS"
-}, {
-  "mean" : "उपविशति",
-  "h_mean" : "बैठता हैं",
-  "word" : "SIT DOWN"
-}, {
-  "mean" : "शयनम्",
-  "h_mean" : "सोना",
-  "word" : "SLEEP"
-}, {
-  "mean" : "अनुजः",
-  "h_mean" : "छोटा भाई",
-  "word" : "SMALL BROTHER"
-}, {
-  "mean" : "अतएव",
-  "h_mean" : "इसलिए",
-  "word" : "SO"
-}, {
-  "mean" : "तर्हि",
-  "h_mean" : "तो",
-  "word" : "SO"
-}, {
-  "mean" : "तु",
-  "h_mean" : "तौ",
-  "word" : "SO"
-}, {
-  "mean" : "यद्",
-  "h_mean" : "तो",
-  "word" : "SO"
-}, {
-  "mean" : "अनेके",
-  "h_mean" : "अनेक मैं",
-  "word" : "SO MANY"
-}, {
-  "mean" : "शीतला",
-  "h_mean" : "शीतल",
-  "word" : "SOFT"
-}, {
-  "mean" : "पुत्रस्य",
-  "h_mean" : "पुत्र का",
-  "word" : "SON OF"
-}, {
-  "mean" : "शब्दः",
-  "h_mean" : "आवाज",
-  "word" : "SOUND"
-}, {
-  "mean" : "वादिनम्",
-  "h_mean" : "बोलने वाला",
-  "word" : "SPEAKER"
-}, {
-  "mean" : "हन्तारम्",
-  "h_mean" : "बीगाड़ ने वाला",
-  "word" : "SPOILER"
-}, {
-  "mean" : "राज्यम्",
-  "h_mean" : "राज्य",
-  "word" : "STATE"
-}, {
-  "mean" : "राज्यभारम्",
-  "h_mean" : "राज्यभार",
-  "word" : "STATE BURDEN"
-}, {
-  "mean" : "वसति",
-  "h_mean" : "रहता हैं",
-  "word" : "STAYS"
-}, {
-  "mean" : "अचोरयत्",
-  "h_mean" : "चुरा लिया",
-  "word" : "STOLE IT"
-}, {
-  "mean" : "छात्रः",
-  "h_mean" : "छात्र",
-  "word" : "STUDENT"
-}, {
-  "mean" : "छात्राणाम्",
-  "h_mean" : "छात्रो का",
-  "word" : "STUDENT'S"
-}, {
-  "mean" : "अध्ययनम्",
-  "h_mean" : "पढाई",
-  "word" : "STUDY"
-}, {
-  "mean" : "रविवासरः",
-  "h_mean" : "रविवार",
-  "word" : "SUNDAY"
-}, {
-  "mean" : "सुर्योदयः",
-  "h_mean" : "सुर्य का उदय",
-  "word" : "SUNRISE"
-}, {
-  "mean" : "पयोमुखम्",
-  "h_mean" : "मीठे मुह वाला",
-  "word" : "SWEET MOUTH"
-}, {
-  "mean" : "नित्वा",
-  "h_mean" : "लेकर",
-  "word" : "TAKING"
-}, {
-  "mean" : "वदन्ति",
-  "h_mean" : "बाते करना",
-  "word" : "TALKING"
-}, {
-  "mean" : "अध्यापकः",
-  "h_mean" : "अध्यापक",
-  "word" : "TEACHER"
-}, {
-  "mean" : "अध्यापकानाम्",
-  "h_mean" : "अध्यापक को",
-  "word" : "TEACHER'S"
-}, {
-  "mean" : "पाठयति",
-  "h_mean" : "पडाता हैं",
-  "word" : "TEACHES"
-}, {
-  "mean" : "दुरदर्शन",
-  "h_mean" : "दुरदर्शनं",
-  "word" : "TELEVISION"
-}, {
-  "mean" : "यत्",
-  "h_mean" : "कि",
-  "word" : "THAT"
-}, {
-  "mean" : "वर्जयेत्तादृशम्",
-  "h_mean" : "वैसे को छोड़ देना चाहिए",
-  "word" : "THAT KIND OF THING SHOULD BE LEFT ALONE"
-}, {
-  "mean" : "तु",
-  "h_mean" : "तौ",
-  "word" : "THE"
-}, {
-  "mean" : "भक्तः",
-  "h_mean" : "भक्त",
-  "word" : "THE DEVOTEE"
-}, {
-  "mean" : "आदर्श भ्राता",
-  "h_mean" : "आदर्श भाई",
-  "word" : "THE IDEAL BROTHER"
-}, {
-  "mean" : "आदर्श भार्या",
-  "h_mean" : "आदर्श पत्नी",
-  "word" : "THE IDEAL WIFE"
-}, {
-  "mean" : "उभौ",
-  "h_mean" : "फिर",
-  "word" : "THEN"
-}, {
-  "mean" : "तदा",
-  "h_mean" : "तब",
-  "word" : "THEN"
-}, {
-  "mean" : "तत्र",
-  "h_mean" : "वहा",
-  "word" : "THERE"
-}, {
-  "mean" : "तत्र",
-  "h_mean" : "वहाॅ",
-  "word" : "THERE"
-}, {
-  "mean" : "षडेते",
-  "h_mean" : "यह छः",
-  "word" : "THERE ARE SIX"
-}, {
-  "mean" : "अतएव",
-  "h_mean" : "इसलिए",
-  "word" : "THEREFORE"
-}, {
-  "mean" : "तौ",
-  "h_mean" : "वे दोनों",
-  "word" : "THESE TWO"
-}, {
-  "mean" : "इमे",
-  "h_mean" : "ये दो लडकिया",
-  "word" : "THESE TWO GIRLS"
-}, {
-  "mean" : "गुम्फति",
-  "h_mean" : "गूथता हैॱ",
-  "word" : "THEY ARE INTERTWINING"
-}, {
-  "mean" : "ते",
-  "h_mean" : "वे दो लडकिया",
-  "word" : "THEY TWO GIRLS"
-}, {
-  "mean" : "सन्ति",
-  "h_mean" : "ये सब",
-  "word" : "THIS ALL"
-}, {
-  "mean" : "अयम्",
-  "h_mean" : "यह लडका",
-  "word" : "THIS BOYS"
-}, {
-  "mean" : "इदम्",
-  "h_mean" : "यह क्या हैं",
-  "word" : "THIS THING"
-}, {
-  "mean" : "अचिन्तयत्",
-  "h_mean" : "सोचा",
-  "word" : "THOUGHT"
-}, {
-  "mean" : "त्रयः",
-  "h_mean" : "तीन",
-  "word" : "THREE"
-}, {
-  "mean" : "वेला",
-  "h_mean" : "वेला",
-  "word" : "TIME"
-}, {
-  "mean" : "वा",
-  "h_mean" : "बार",
-  "word" : "TIMES"
-}, {
-  "mean" : "बालकस्य",
-  "h_mean" : "बालक के",
-  "word" : "TO BOY"
-}, {
-  "mean" : "पचति",
-  "h_mean" : "पकाना",
-  "word" : "TO COOK"
-}, {
-  "mean" : "आक्रमणकाले",
-  "h_mean" : "आक्रमण के समय",
-  "word" : "TO FIGHT TIME"
-}, {
-  "mean" : "अन्वेष्टुम्",
-  "h_mean" : "ढुढने",
-  "word" : "TO FIND"
-}, {
-  "mean" : "उद्यानात्",
-  "h_mean" : "उद्यान से",
-  "word" : "TO GARDEN"
-}, {
-  "mean" : "प्राप्त्यर्थम्",
-  "h_mean" : "प्राप्त करने के लिए",
-  "word" : "TO GET"
-}, {
-  "mean" : "बालिकायाः",
-  "h_mean" : "लड़की के",
-  "word" : "TO GIRL"
-}, {
-  "mean" : "गन्तुम्",
-  "h_mean" : "जाने के लिए",
-  "word" : "TO GO TO"
-}, {
-  "mean" : "गृहे",
-  "h_mean" : "घर पर",
-  "word" : "TO HOUSE"
-}, {
-  "mean" : "स्वभावेन",
-  "h_mean" : "स्वभाव से",
-  "word" : "TO NATURE"
-}, {
-  "mean" : "क्रीङतुम्",
-  "h_mean" : "खेलने के लिए",
-  "word" : "TO PLAY"
-}, {
-  "mean" : "भ्रमणाय",
-  "h_mean" : "घुमने के लिए",
-  "word" : "TO ROAM AROUND"
-}, {
-  "mean" : "मार्गेण",
-  "h_mean" : "मार्ग से",
-  "word" : "TO ROUTE"
-}, {
-  "mean" : "शत्रून्",
-  "h_mean" : "दुश्मन को",
-  "word" : "TO THE ENEMY"
-}, {
-  "mean" : "अध्यापकम्",
-  "h_mean" : "अध्यापक को",
-  "word" : "TO THE TEACHER"
-}, {
-  "mean" : "हस्तयोः",
-  "h_mean" : "दो हाथ में",
-  "word" : "TO TWO HANDS"
-}, {
-  "mean" : "वृक्षाभ्याम्",
-  "h_mean" : "दो पेड़ से",
-  "word" : "TO TWO TREE"
-}, {
-  "mean" : "ग्रामात्",
-  "h_mean" : "गाॅंव से",
-  "word" : "TO VILLAGE"
-}, {
-  "mean" : "अभ्रमत्",
-  "h_mean" : "भटका था",
-  "word" : "TO WANDER"
-}, {
-  "mean" : "अद्य",
-  "h_mean" : "आज",
-  "word" : "TODAY"
-}, {
-  "mean" : "श्वः",
-  "h_mean" : "कल",
-  "word" : "TOMORROW"
-}, {
-  "mean" : "अपि",
-  "h_mean" : "भी",
-  "word" : "TOO"
-}, {
-  "mean" : "कमपि",
-  "h_mean" : "कोई भी",
-  "word" : "TOO ANY"
-}, {
-  "mean" : "नयति",
-  "h_mean" : "ले गया",
-  "word" : "TOOK IT AWAY"
-}, {
-  "mean" : "पथिकः",
-  "h_mean" : "यात्री",
-  "word" : "TRAVELLER"
-}, {
-  "mean" : "स्तः",
-  "h_mean" : "दो हैं",
-  "word" : "TWO ARE"
-}, {
-  "mean" : "पुस्तके",
-  "h_mean" : "दो पुस्तक",
-  "word" : "TWO BOOKS"
-}, {
-  "mean" : "पुस्तके",
-  "h_mean" : "दो किताब",
-  "word" : "TWO BOOKS"
-}, {
-  "mean" : "इमौ",
-  "h_mean" : "दो लडके",
-  "word" : "TWO BOYS"
-}, {
-  "mean" : "वृषभौ",
-  "h_mean" : "दो बेल",
-  "word" : "TWO BULLS"
-}, {
-  "mean" : "संगणकौ",
-  "h_mean" : "दो संगणक हैं",
-  "word" : "TWO COMPUTER"
-}, {
-  "mean" : "व्यजने",
-  "h_mean" : "दो पंखे",
-  "word" : "TWO FAN"
-}, {
-  "mean" : "पुष्पे",
-  "h_mean" : "दो फुल",
-  "word" : "TWO FLOWERS"
-}, {
-  "mean" : "मित्रे",
-  "h_mean" : "दो दोस्त",
-  "word" : "TWO FRIENDS"
-}, {
-  "mean" : "बालिके",
-  "h_mean" : "दो लडकिया",
-  "word" : "TWO GIRLS"
-}, {
-  "mean" : "नृत्यतः",
-  "h_mean" : "नृत्य",
-  "word" : "TWO GIRLS DANCING"
-}, {
-  "mean" : "छात्रे",
-  "h_mean" : "ये दो छात्रा",
-  "word" : "TWO GIRLS STUDENT"
-}, {
-  "mean" : "चरणाभ्याम्",
-  "h_mean" : "दो पेर",
-  "word" : "TWO LEGS"
-}, {
-  "mean" : "कमले",
-  "h_mean" : "दो कमल",
-  "word" : "TWO LOTUS"
-}, {
-  "mean" : "कुरूतः",
-  "h_mean" : "दो लडके काम कर रहे हैं",
-  "word" : "TWO PEOPLE DO"
-}, {
-  "mean" : "नमतः",
-  "h_mean" : "दो लोग नमस्कार करते हैं",
-  "word" : "TWO PEOPLE HELLO"
-}, {
-  "mean" : "क्रीडतः",
-  "h_mean" : "दो लोग खेल रहे हैं",
-  "word" : "TWO PEOPLE PLAY"
-}, {
-  "mean" : "गायतः",
-  "h_mean" : "दो गाता हैं",
-  "word" : "TWO PEOPLE SINGS"
-}, {
-  "mean" : "पठतः",
-  "h_mean" : "दो लोग पढ रहे हैं",
-  "word" : "TWO PEOPLE STUDIES"
-}, {
-  "mean" : "नयतः",
-  "h_mean" : "दो लोग ले जाता हैं",
-  "word" : "TWO PERSON TAKES IT AWAY"
-}, {
-  "mean" : "पाटले",
-  "h_mean" : "दो गुलाब",
-  "word" : "TWO ROSE"
-}, {
-  "mean" : "सैनिकौ",
-  "h_mean" : "दो सैनिक",
-  "word" : "TWO SOLDERS"
-}, {
-  "mean" : "नयतः",
-  "h_mean" : "दो ले जाता हॅं",
-  "word" : "TWO TAKES IT AWAY"
-}, {
-  "mean" : "अध्यापिके",
-  "h_mean" : "दो अध्यापिक",
-  "word" : "TWO TEACHER"
-}, {
-  "mean" : "इमे",
-  "h_mean" : "यह दो",
-  "word" : "TWO THIS THING"
-}, {
-  "mean" : "कुपाभ्याम्",
-  "h_mean" : "दो कुआ",
-  "word" : "TWO WELL"
-}, {
-  "mean" : "चक्रे",
-  "h_mean" : "दो पहिया",
-  "word" : "TWO WHEEL"
-}, {
-  "mean" : "वृक्षाभ्याम्",
-  "h_mean" : "दो पेड़",
-  "word" : "TWO WITH TREE"
-}, {
-  "mean" : "यावत्",
-  "h_mean" : "जब तक",
-  "word" : "UNTIL"
-}, {
-  "mean" : "अजयत्",
-  "h_mean" : "जीतना",
-  "word" : "VICTORY"
-}, {
-  "mean" : "ग्रामम्",
-  "h_mean" : "गाव",
-  "word" : "VILLAGE"
-}, {
-  "mean" : "पुण्याय",
-  "h_mean" : "पुण्य",
-  "word" : "VIRTURE"
-}, {
-  "mean" : "स्म",
-  "h_mean" : "था",
-  "word" : "WAS"
-}, {
-  "mean" : "अत्यक्राम्यत्",
-  "h_mean" : "पार कर रहा था",
-  "word" : "WAS CROSSING"
-}, {
-  "mean" : "प्रक्षालयति",
-  "h_mean" : "धोता हैं",
-  "word" : "WASHES UP"
-}, {
-  "mean" : "अहम्",
-  "h_mean" : "मैं",
-  "word" : "WE"
-}, {
-  "mean" : "वयम्",
-  "h_mean" : "हम सब",
-  "word" : "WE"
-}, {
-  "mean" : "अस्माकम्",
-  "h_mean" : "हम सब",
-  "word" : "WE ALL"
-}, {
-  "mean" : "क्रीडामः",
-  "h_mean" : "हम सब खेलते हैं।",
-  "word" : "WE ALL PLAY TALES"
-}, {
-  "mean" : "वयम्",
-  "h_mean" : "हम सब",
-  "word" : "WE ARE"
-}, {
-  "mean" : "स्मः",
-  "h_mean" : "हम सब का हो जाएगा",
-  "word" : "WE ARE DONE"
-}, {
-  "mean" : "खादामि",
-  "h_mean" : "मैं खाता हॅं",
-  "word" : "WE EAT"
-}, {
-  "mean" : "गच्छामः",
-  "h_mean" : "हम सब जाते हैं",
-  "word" : "WE GOING"
-}, {
-  "mean" : "अस्मि",
-  "h_mean" : "हुॅं",
-  "word" : "WE ARE"
-}, {
-  "mean" : "रचयामि",
-  "h_mean" : "में बनाउॅंगा",
-  "word" : "WE MAKE"
-}, {
-  "mean" : "त्रोटयामि",
-  "h_mean" : "में तोडता हुॅ",
-  "word" : "I PLUCK"
-}, {
-  "mean" : "पठामः",
-  "h_mean" : "हम सब पढते हैं",
-  "word" : "WE READ"
-}, {
-  "mean" : "पठामि",
-  "h_mean" : "मैं पढता हुॅं",
-  "word" : "I READ"
-}, {
-  "mean" : "चलामि",
-  "h_mean" : "मैं चलता हुॅ",
-  "word" : "I WALK"
-}, {
-  "mean" : "धारयित्वा",
-  "h_mean" : "पहनकर",
-  "word" : "WEARING"
-}, {
-  "mean" : "धारयति",
-  "h_mean" : "पहनता हैं",
-  "word" : "WEARS"
-}, {
-  "mean" : "अभवन्",
-  "h_mean" : "थे",
-  "word" : "WERE"
-}, {
-  "mean" : "अविशत्",
-  "h_mean" : "घुस गए",
-  "word" : "WERE INFILTRATED"
-}, {
-  "mean" : "किम्",
-  "h_mean" : "क्या",
-  "word" : "WHAT"
-}, {
-  "mean" : "चक्रम्",
-  "h_mean" : "पहिया",
-  "word" : "WHEEL"
-}, {
-  "mean" : "कदा",
-  "h_mean" : "कब",
-  "word" : "WHEN"
-}, {
-  "mean" : "यदा",
-  "h_mean" : "जब",
-  "word" : "WHEN"
-}, {
-  "mean" : "यत्र",
-  "h_mean" : "जहाॅं",
-  "word" : "WHERE"
-}, {
-  "mean" : "कुतः",
-  "h_mean" : "कहाॅं से",
-  "word" : "WHERE TO"
-}, {
-  "mean" : "कः",
-  "h_mean" : "कौन",
-  "word" : "WHO"
-}, {
-  "mean" : "के जनाः",
-  "h_mean" : "ये सब कोन हैं",
-  "word" : "WHO ARE ALL THESE PEOPLE"
-}, {
-  "mean" : "का",
-  "h_mean" : "कोन लडकी",
-  "word" : "WHO GIRL"
-}, {
-  "mean" : "के बालिके",
-  "h_mean" : "ये दो कोन लडकीया हैं",
-  "word" : "WHO TWO GIRLS"
-}, {
-  "mean" : "किमथर्म्",
-  "h_mean" : "किसलिए",
-  "word" : "WHY"
-}, {
-  "mean" : "किमर्थम्",
-  "h_mean" : "किसलिए",
-  "word" : "WHY"
-}, {
-  "mean" : "भार्या",
-  "h_mean" : "पत्नी",
-  "word" : "WIFE"
-}, {
-  "mean" : "एव",
-  "h_mean" : "हि",
-  "word" : "WILL"
-}, {
-  "mean" : "मेलिष्यामः",
-  "h_mean" : "मिलेगे",
-  "word" : "WILL MEET"
-}, {
-  "mean" : "करोषि",
-  "h_mean" : "करोगे",
-  "word" : "WILL YOU DO IT"
-}, {
-  "mean" : "विजयी",
-  "h_mean" : "जीतना",
-  "word" : "WINNER"
-}, {
-  "mean" : "सह",
-  "h_mean" : "साथ",
-  "word" : "WITH"
-}, {
-  "mean" : "वृक्षाभ्याम्",
-  "h_mean" : "पेङ से",
-  "word" : "WITH TREE"
-}, {
-  "mean" : "कस्मात्",
-  "h_mean" : "किस से ॱअलगॱ",
-  "word" : "WITH WHOM"
-}, {
-  "mean" : "केन",
-  "h_mean" : "किससे",
-  "word" : "WITH WHOM"
-}, {
-  "mean" : "कैः",
-  "h_mean" : "किससे",
-  "word" : "WITH WHOM"
-}, {
-  "mean" : "अजयत्",
-  "h_mean" : "जीत लिया",
-  "word" : "WON IT"
-}, {
-  "mean" : "काम",
-  "h_mean" : "कार्य",
-  "word" : "WORK"
-}, {
-  "mean" : "लिखति",
-  "h_mean" : "लिखता है",
-  "word" : "WRITE"
-}, {
-  "mean" : "वर्षाणि",
-  "h_mean" : "कई साल",
-  "word" : "YEARS"
-}, {
-  "mean" : "आम्",
-  "h_mean" : "हांॅ",
-  "word" : "YES"
-}, {
-  "mean" : "ह्यः",
-  "h_mean" : "बिता हुआ कल",
-  "word" : "YESTERDAY"
-}, {
-  "mean" : "त्वम्",
-  "h_mean" : "तुम",
-  "word" : "YOU"
-}, {
-  "mean" : "यूयम्",
-  "h_mean" : "तुम सब",
-  "word" : "YOU ALL"
-}, {
-  "mean" : "क्रीडथ",
-  "h_mean" : "तुम सब खेलते हो",
-  "word" : "YOU ALL PLAY"
-}, {
-  "mean" : "कुरूथ",
-  "h_mean" : "तुम सब करोगे",
-  "word" : "YOU ALL DO"
-}, {
+  "word" : "ALL DONE",
   "mean" : "स्थ",
-  "h_mean" : "सब हो जाए",
-  "word" : "ALL DONE"
+  "h_mean" : "सब हो जाए"
 }, {
-  "mean" : "पृच्छसि",
-  "h_mean" : "तुम पुछते हो",
-  "word" : "YOU ASK"
+  "word" : "ALL EXCURSION",
+  "mean" : "भ्रमन्ति",
+  "h_mean" : "सब घुमते हैं"
 }, {
-  "mean" : "क्रिङथः",
-  "h_mean" : "तुम दोनो खेलते हो",
-  "word" : "YOU BOTH PLAY"
+  "word" : "ALL FALL DOWN",
+  "mean" : "पतन्ति",
+  "h_mean" : "सब गिरना"
 }, {
-  "mean" : "त्रोटयसि",
-  "h_mean" : "तुम तोडते हो",
-  "word" : "YOU PLUCK"
+  "word" : "ALL FAN",
+  "mean" : "व्यजनानि",
+  "h_mean" : "सब पंखे"
 }, {
-  "mean" : "चलसि",
-  "h_mean" : "तुम चलते हो",
-  "word" : "YOU WALK"
+  "word" : "ALL FLOWERS",
+  "mean" : "पुष्पाणि",
+  "h_mean" : "सब फूल"
 }, {
+  "word" : "ALL FRIENDS",
+  "mean" : "मित्राणि",
+  "h_mean" : "सारे दोस्त"
+}, {
+  "word" : "ALL FROM WHAT",
+  "mean" : "कैः",
+  "h_mean" : "सब किससे"
+}, {
+  "word" : "ALL FRUIT",
+  "mean" : "फलानि",
+  "h_mean" : "सब फल"
+}, {
+  "word" : "ALL GIRLS",
+  "mean" : "बालिकाः",
+  "h_mean" : "सारी लडकिंया"
+}, {
+  "word" : "ALL HORSES",
+  "mean" : "अश्वाः",
+  "h_mean" : "सब घोड़े"
+}, {
+  "word" : "All IN CHAIR",
+  "mean" : "आसन्दिकासु",
+  "h_mean" : "सब कुर्सी पर"
+}, {
+  "word" : "ALL IN CLASS",
+  "mean" : "कक्षासु",
+  "h_mean" : "कक्षा में"
+}, {
+  "word" : "ALL JUMPING",
+  "mean" : "कुर्दन्ति",
+  "h_mean" : "कुदते हैं"
+}, {
+  "word" : "ALL LOTUS",
+  "mean" : "कमलानि",
+  "h_mean" : "सब कमल"
+}, {
+  "word" : "ALL OF THEM",
+  "mean" : "तेषाम्",
+  "h_mean" : "उन सबके"
+}, {
+  "word" : "ALL OF US",
+  "mean" : "अस्माकम्",
+  "h_mean" : "हम सभी के"
+}, {
+  "word" : "ALL PATHS",
+  "mean" : "मार्गान",
+  "h_mean" : "मार्ग से"
+}, {
+  "word" : "ALL PEOPLE",
+  "mean" : "जनाः",
+  "h_mean" : "सब लोग"
+}, {
+  "word" : "ALL PEOPLE DO",
+  "mean" : "कुवर्न्ति",
+  "h_mean" : "सब करते हैं"
+}, {
+  "word" : "ALL PEOPLE SINGS",
+  "mean" : "गायन्ति",
+  "h_mean" : "सब गाते हैं"
+}, {
+  "word" : "ALL PEOPLE STUDIES",
+  "mean" : "पठन्ति",
+  "h_mean" : "सब पढते हैं"
+}, {
+  "word" : "ALL PEOPLE STUDIES",
+  "mean" : "पठन्ति",
+  "h_mean" : "सब पढते हैं।"
+}, {
+  "word" : "ALL ROSES",
+  "mean" : "पाटलानि",
+  "h_mean" : "सब गुलाब"
+}, {
+  "word" : "ALL RUN",
+  "mean" : "धावन्ति",
+  "h_mean" : "सब भागते हैं"
+}, {
+  "word" : "ALL SCHOOL",
+  "mean" : "विद्यालयाः",
+  "h_mean" : "सारे स्कुल"
+}, {
+  "word" : "ALL STUDENT",
+  "mean" : "छात्राः",
+  "h_mean" : "सब छात्र"
+}, {
+  "word" : "ALL STUDENTS",
+  "mean" : "छात्राः",
+  "h_mean" : "सारे छात्र"
+}, {
+  "word" : "ALL THAT",
+  "mean" : "ते",
+  "h_mean" : "वह सब"
+}, {
+  "word" : "ALL THINGS",
+  "mean" : "इमानि",
+  "h_mean" : "सब सामान"
+}, {
+  "word" : "ALL WHEEL",
+  "mean" : "चक्राणि",
+  "h_mean" : "सब पहिया"
+}, {
+  "word" : "ALL WITH WHOM",
+  "mean" : "कैः",
+  "h_mean" : "सब किससे"
+}, {
+  "word" : "ALL WOMEN",
+  "mean" : "महिलाः",
+  "h_mean" : "औरते"
+}, {
+  "word" : "ALONG WITH",
+  "mean" : "सहैव",
+  "h_mean" : "साथ हि"
+}, {
+  "word" : "ALWAYS",
+  "mean" : "सदा",
+  "h_mean" : "हमेशा"
+}, {
+  "word" : "AMONG THEM",
+  "mean" : "तेषु",
+  "h_mean" : "उनमे से"
+}, {
+  "word" : "ANCIENT PERIOD",
+  "mean" : "पुरा",
+  "h_mean" : "प्राचिन काल"
+}, {
+  "word" : "ANIMALS",
+  "mean" : "पशवः",
+  "h_mean" : "जानवरो"
+}, {
+  "word" : "ANIMALS",
+  "mean" : "मृगैः",
+  "h_mean" : "जानवर"
+}, {
+  "word" : "ANIMALS (DEER) GRAZES",
+  "mean" : "मृगाश्र्चरन्ति",
+  "h_mean" : "पशु ॱमृगॱ चरते हैं"
+}, {
+  "word" : "ANNUAL FUNCTION",
+  "mean" : "वार्षिकोत्सवः",
+  "h_mean" : "वार्षिकोत्सव"
+}, {
+  "word" : "ANY",
+  "mean" : "कमपि",
+  "h_mean" : "कोई भी"
+}, {
+  "word" : "ANY",
+  "mean" : "कश्चिद्",
+  "h_mean" : "कोइ"
+}, {
+  "word" : "ARE",
+  "mean" : "वर्तन्ते",
+  "h_mean" : "हैं"
+}, {
+  "word" : "ARE LIVING",
+  "mean" : "जीवन्ति",
+  "h_mean" : "जिवन"
+}, {
+  "word" : "ARE YOU",
+  "mean" : "असि",
+  "h_mean" : "आप हैं"
+}, {
+  "word" : "AROUND",
+  "mean" : "भ्रमन्ति",
+  "h_mean" : "घुमता हैं"
+}, {
+  "word" : "AS PER STATEMENT",
+  "mean" : "कथनानुसारम्",
+  "h_mean" : "कथन के अनुसार"
+}, {
+  "word" : "ASKED",
+  "mean" : "अपृच्छत्",
+  "h_mean" : "पुछा"
+}, {
+  "word" : "ATTENDED",
+  "mean" : "उपस्थितः",
+  "h_mean" : "मौजुद"
+}, {
+  "word" : "AVATAR",
+  "mean" : "अवतारः",
+  "h_mean" : "अवतार"
+}, {
+  "word" : "AWAY",
+  "mean" : "दुरं",
+  "h_mean" : "दुर"
+}, {
+  "word" : "BALL",
+  "mean" : "कन्दुकेन",
+  "h_mean" : "गेंद"
+}, {
+  "word" : "BARKED",
+  "mean" : "अभषत्",
+  "h_mean" : "भौंका"
+}, {
+  "word" : "BATH",
+  "mean" : "स्नानम्",
+  "h_mean" : "स्नान"
+}, {
+  "word" : "BATHING",
+  "mean" : "स्नात्वा",
+  "h_mean" : "स्नान करके"
+}, {
+  "word" : "BE POSITION",
+  "mean" : "पदेन",
+  "h_mean" : "पद से"
+}, {
+  "word" : "BECAME HAPPY",
+  "mean" : "प्रीतोअभवत्",
+  "h_mean" : "प्रसन्न हुआ"
+}, {
+  "word" : "BECAME SURPRISED",
+  "mean" : "विस्मितोअभवत्",
+  "h_mean" : "आश्चर्यचकित हुआ"
+}, {
+  "word" : "BED",
+  "mean" : "पर्यडकेषु",
+  "h_mean" : "पलंग"
+}, {
+  "word" : "BEFORE FOURTEEN YEARS",
+  "mean" : "चतुर्दश वर्षाणामुपरान्तॅं",
+  "h_mean" : "चोदह वर्ष के बाद"
+}, {
+  "word" : "BEFRIENDED",
+  "mean" : "मैत्रीम्",
+  "h_mean" : "मित्रता"
+}, {
+  "word" : "BEGGAR",
+  "mean" : "भिक्षुकः",
+  "h_mean" : "भिखारी"
+}, {
+  "word" : "BEGIN",
+  "mean" : "अथ",
+  "h_mean" : "इस प्रकार"
+}, {
+  "word" : "BEHAVIOUR",
+  "mean" : "शीलम्",
+  "h_mean" : "आचरण"
+}, {
+  "word" : "BIG BROTHER",
+  "mean" : "अग्रजः",
+  "h_mean" : "बडा भाई"
+}, {
+  "word" : "BIRDS",
+  "mean" : "खगाः",
+  "h_mean" : "चिङियाए"
+}, {
+  "word" : "BIRDS KIDS",
+  "mean" : "शवाकाः",
+  "h_mean" : "चुजा"
+}, {
+  "word" : "BIRTHDAY",
+  "mean" : "जन्मदिवसः",
+  "h_mean" : "जन्मदिन"
+}, {
+  "word" : "BLESSINGS",
+  "mean" : "आशीर्वादः",
+  "h_mean" : "आशीर्वाद"
+}, {
+  "word" : "BLIND",
+  "mean" : "अन्धः",
+  "h_mean" : "अन्धा"
+}, {
+  "word" : "BOOK",
+  "mean" : "पुस्तकम्",
+  "h_mean" : "किताब"
+}, {
+  "word" : "BOTH HAD GONE",
+  "mean" : "अगच्छताम्",
+  "h_mean" : "दोनो गए"
+}, {
+  "word" : "BOTH MEET",
+  "mean" : "अमिलताम्",
+  "h_mean" : "दोनो मिले"
+}, {
+  "word" : "BOTH OF THEM",
+  "mean" : "तयोः",
+  "h_mean" : "उन दोनो के"
+}, {
+  "word" : "BOTH OF US",
+  "mean" : "आवयोः",
+  "h_mean" : "हम दोनो के"
+}, {
+  "word" : "BOTH OF US",
+  "mean" : "आवाम्",
+  "h_mean" : "हम दोनो"
+}, {
+  "word" : "BOTH TURN AROUND",
+  "mean" : "अभ्रमताम्",
+  "h_mean" : "दोनो घुमे"
+}, {
+  "word" : "BOTH WENT",
+  "mean" : "अगच्छताम्",
+  "h_mean" : "दोनो गए"
+}, {
+  "word" : "BOW YOUR HEAD",
+  "mean" : "नतमस्तकः",
+  "h_mean" : "सिर झुकाना"
+}, {
+  "word" : "BRUSHING",
+  "mean" : "दन्तमञजनं",
+  "h_mean" : "दात साफ करने"
+}, {
+  "word" : "BURN",
+  "mean" : "अदहत्",
+  "h_mean" : "जलाना"
+}, {
+  "word" : "BURNS",
+  "mean" : "प्रज्वलति",
+  "h_mean" : "जलता है"
+}, {
+  "word" : "BUS TO",
+  "mean" : "बसयानेन",
+  "h_mean" : "बस से"
+}, {
+  "word" : "BUTCHER'S",
+  "mean" : "शौनकस्य",
+  "h_mean" : "कसाई की"
+}, {
+  "word" : "BY ASKING",
+  "mean" : "पृष्टवा",
+  "h_mean" : "पुछकर"
+}, {
+  "word" : "BY BEHAVIOUR",
+  "mean" : "व्यवहारेण",
+  "h_mean" : "व्यवहार से"
+}, {
+  "word" : "BY BEING STEADY",
+  "mean" : "स्थित्वा",
+  "h_mean" : "स्थिर होकर"
+}, {
+  "word" : "BY COMING",
+  "mean" : "आगत्य",
+  "h_mean" : "आकर के"
+}, {
+  "word" : "BY DOING",
+  "mean" : "कृत्वा",
+  "h_mean" : "करके"
+}, {
+  "word" : "BY GIVING",
+  "mean" : "नीत्वा",
+  "h_mean" : "देकर"
+}, {
+  "word" : "BY HIS GRACE",
+  "mean" : "यत्कृपा",
+  "h_mean" : "उनकी कृपा से"
+}, {
+  "word" : "BY MAKING IT",
+  "mean" : "रचयसि",
+  "h_mean" : "बनाकर"
+}, {
+  "word" : "BY ORDER",
+  "mean" : "आज्ञया",
+  "h_mean" : "आज्ञा से"
+}, {
+  "word" : "CAVE",
+  "mean" : "गुहायां",
+  "h_mean" : "गुफा"
+}, {
+  "word" : "CHAIRS",
+  "mean" : "आसन्दकासु",
+  "h_mean" : "कुर्सियां"
+}, {
+  "word" : "CHARITY",
+  "mean" : "परोपकाराय",
+  "h_mean" : "परोपकार के लिए"
+}, {
+  "word" : "CHILDREN",
+  "mean" : "बालाः",
+  "h_mean" : "सारे बच्चे"
+}, {
+  "word" : "CHIRP",
+  "mean" : "कुजन्ति",
+  "h_mean" : "कुजते हैं"
+}, {
+  "word" : "CLASS MONITOR",
+  "mean" : "कक्षाप्रमुखः",
+  "h_mean" : "कक्षाप्रमुख"
+}, {
+  "word" : "CLEAN",
+  "mean" : "स्वच्छ",
+  "h_mean" : "साफ"
+}, {
+  "word" : "CLEAN CLOTHES",
+  "mean" : "स्वच्छ वस्त्राणि",
+  "h_mean" : "साफ कपड़े"
+}, {
+  "word" : "CLIMBS UP",
+  "mean" : "अवतरणः",
+  "h_mean" : "चढता हैं"
+}, {
+  "word" : "CLOTHS",
+  "mean" : "वस्त्राणि",
+  "h_mean" : "सब वस्त्र"
+}, {
+  "word" : "CLOUDS RAIN",
+  "mean" : "मेघे वर्षति",
+  "h_mean" : "बादल बरसने पर"
+}, {
+  "word" : "COIN BOX",
+  "mean" : "दशागुल्याः",
+  "h_mean" : "दशगुल्ला"
+}, {
+  "word" : "COME",
+  "mean" : "आगत्य",
+  "h_mean" : "आकर"
+}, {
+  "word" : "COME",
+  "mean" : "आनयति",
+  "h_mean" : "आता हैं"
+}, {
+  "word" : "COMES",
+  "mean" : "आगत्य",
+  "h_mean" : "आ कर"
+}, {
+  "word" : "COMES DOWN",
+  "mean" : "अवतरतः",
+  "h_mean" : "उतरता हैं"
+}, {
+  "word" : "COMMANDED",
+  "mean" : "आदिशत्",
+  "h_mean" : "आदेश दिया"
+}, {
+  "word" : "COMPOUND",
+  "mean" : "परिसरे",
+  "h_mean" : "परिसर"
+}, {
+  "word" : "COULD NOT",
+  "mean" : "अशक्नोत्",
+  "h_mean" : "सक्षम नही हुआ"
+}, {
+  "word" : "COURAGE",
+  "mean" : "साहसम्",
+  "h_mean" : "हिम्मत"
+}, {
+  "word" : "COWARD",
+  "mean" : "भीरुः",
+  "h_mean" : "डरपोक"
+}, {
+  "word" : "CREATURE",
+  "mean" : "प्राणिनम्",
+  "h_mean" : "जीवित"
+}, {
+  "word" : "CROSSED",
+  "mean" : "अपारयत्",
+  "h_mean" : "पार कर लिया"
+}, {
+  "word" : "CROW",
+  "mean" : "काक:",
+  "h_mean" : "कौआ"
+}, {
+  "word" : "CURRENCY",
+  "mean" : "धनम्",
+  "h_mean" : "पेसा"
+}, {
+  "word" : "DAILY ACTIONS",
+  "mean" : "दैनिक क्रियाएँ",
+  "h_mean" : "नित्यकर्माणि"
+}, {
+  "word" : "DAILY ACTIONS",
+  "mean" : "नित्यकर्माणि",
+  "h_mean" : "दैनिक क्रियाए"
+}, {
+  "word" : "DANCES",
+  "mean" : "नृत्यन्ति",
+  "h_mean" : "नाचते हैं"
+}, {
+  "word" : "DARING",
+  "mean" : "साहसी",
+  "h_mean" : "साहसी"
+}, {
+  "word" : "DAY AFTER TOMORROW",
+  "mean" : "परश्वः",
+  "h_mean" : "परसो"
+}, {
+  "word" : "DECEPTION",
+  "mean" : "छलेन",
+  "h_mean" : "धोखे से"
+}, {
+  "word" : "DECIDE",
+  "mean" : "वै",
+  "h_mean" : "निश्चय"
+}, {
+  "word" : "DECORATED",
+  "mean" : "विभूषितः",
+  "h_mean" : "विभूषित"
+}, {
+  "word" : "DEVIL",
+  "mean" : "दुर्जनों",
+  "h_mean" : "दुशमन"
+}, {
+  "word" : "DEVIL",
+  "mean" : "रिपुः",
+  "h_mean" : "दुश्मन"
+}, {
+  "word" : "DEVOTEE",
+  "mean" : "भक्तः",
+  "h_mean" : "भक्त"
+}, {
+  "word" : "DINNER",
+  "mean" : "रात्रिभोजन",
+  "h_mean" : "रात का भोजन"
+}, {
+  "word" : "DIRTY",
+  "mean" : "मलिनतां",
+  "h_mean" : "गन्दगी"
+}, {
+  "word" : "DISPATCHED",
+  "mean" : "प्रेषितः",
+  "h_mean" : "भेजा दिया"
+}, {
+  "word" : "DO YOU DO",
   "mean" : "करोषि",
-  "h_mean" : "तुम करते हो",
-  "word" : "YOU WORK"
+  "h_mean" : "तुम करते हो"
+}, {
+  "word" : "DOES",
+  "mean" : "करोति",
+  "h_mean" : "करता हैं"
+}, {
+  "word" : "DOG",
+  "mean" : "कुक्कुरः",
+  "h_mean" : "कुत्ता"
+}, {
+  "word" : "DOWN",
+  "mean" : "अधः",
+  "h_mean" : "नीचे"
+}, {
+  "word" : "DRINKING",
+  "mean" : "पिबति",
+  "h_mean" : "पीता है"
+}, {
+  "word" : "DUMB",
+  "mean" : "मुकं",
+  "h_mean" : "गुॅगे को"
+}, {
+  "word" : "DUTY",
+  "mean" : "कर्तव्यम्",
+  "h_mean" : "कर्तव्य"
+}, {
+  "word" : "EARTH",
+  "mean" : "वसुन्धरा",
+  "h_mean" : "पृथ्वी"
+}, {
+  "word" : "EAT",
+  "mean" : "खादामि",
+  "h_mean" : "खाता हैं"
+}, {
+  "word" : "ELEPHANTS",
+  "mean" : "गजाः",
+  "h_mean" : "हाथी"
+}, {
+  "word" : "EMERGENCY",
+  "mean" : "आपत्काले",
+  "h_mean" : "मुसिबत के समय मे"
+}, {
+  "word" : "END",
+  "mean" : "नाशः",
+  "h_mean" : "खत्म"
+}, {
+  "word" : "ESTABLISHED",
+  "mean" : "संस्थितम्",
+  "h_mean" : "स्थापित"
+}, {
+  "word" : "EVEN MORE",
+  "mean" : "चापि",
+  "h_mean" : "और भी"
+}, {
+  "word" : "EVENING",
+  "mean" : "सन्धया",
+  "h_mean" : "शाम"
+}, {
+  "word" : "EVENING TIME",
+  "mean" : "सायंकाले",
+  "h_mean" : "शाम के समय"
+}, {
+  "word" : "EVERYBODY WILL COME",
+  "mean" : "आगमिष्यामः",
+  "h_mean" : "सब आएगे"
+}, {
+  "word" : "EVERYONE",
+  "mean" : "सर्वान्",
+  "h_mean" : "सभी को"
+}, {
+  "word" : "EVERYONE LIVES",
+  "mean" : "जीवन्ति",
+  "h_mean" : "सब जीते हैं"
+}, {
+  "word" : "EVERYONE WHO",
+  "mean" : "के",
+  "h_mean" : "सब कौन"
+}, {
+  "word" : "EVERYTHING",
+  "mean" : "सर्वस्व",
+  "h_mean" : "सब कुछ"
+}, {
+  "word" : "EXCESSIVE",
+  "mean" : "अतीव",
+  "h_mean" : "अत्यधिक"
+}, {
+  "word" : "EXERCISE",
+  "mean" : "व्यायमम्",
+  "h_mean" : "योगा"
+}, {
+  "word" : "EXHIBITION",
+  "mean" : "प्रदर्शयन्तु",
+  "h_mean" : "प्रदर्शयन"
+}, {
+  "word" : "FACE",
+  "mean" : "मुखम्",
+  "h_mean" : "मुख"
+}, {
+  "word" : "FAMOUS",
+  "mean" : "प्रसिध्दम्",
+  "h_mean" : "मशहुर"
+}, {
+  "word" : "FAN",
+  "mean" : "व्यजनम्",
+  "h_mean" : "पंखा"
+}, {
+  "word" : "FARM LAND",
+  "mean" : "क्षेत्रं",
+  "h_mean" : "खेत"
+}, {
+  "word" : "FARMER",
+  "mean" : "कृषकः",
+  "h_mean" : "किसान"
+}, {
+  "word" : "FATHER",
+  "mean" : "जनकः",
+  "h_mean" : "पिता"
+}, {
+  "word" : "FEARLESS",
+  "mean" : "निर्भीकः",
+  "h_mean" : "निङर"
+}, {
+  "word" : "FELT SAD",
+  "mean" : "अन्वशोचत्",
+  "h_mean" : "दुखी हुआ"
+}, {
+  "word" : "FIGHT",
+  "mean" : "युध्दम्",
+  "h_mean" : "युध्द"
+}, {
+  "word" : "FIRST OF ALL",
+  "mean" : "सर्वप्रथमं",
+  "h_mean" : "सबसे पहले"
+}, {
+  "word" : "FLOWING",
+  "mean" : "निस्सरतो",
+  "h_mean" : "वहता हुआ"
+}, {
+  "word" : "FOOD",
+  "mean" : "भोजनं",
+  "h_mean" : "भोजन को"
+}, {
+  "word" : "FOR BLOCKING",
+  "mean" : "निरोधाय",
+  "h_mean" : "रोकने के लिए"
+}, {
+  "word" : "FOR DESTRUCTION",
+  "mean" : "विनाशाय",
+  "h_mean" : "विनाश के लिए"
+}, {
+  "word" : "FOR FOOD",
+  "mean" : "भोजनाय",
+  "h_mean" : "खाने के लिए"
+}, {
+  "word" : "FOR HIM",
+  "mean" : "तस्मै",
+  "h_mean" : "उसके लिए"
+}, {
+  "word" : "FOR OFFICES",
+  "mean" : "कार्यालयेभ्यः",
+  "h_mean" : "कार्यालयों के लिए"
+}, {
+  "word" : "FOR THE GODS",
+  "mean" : "देवेभ्यः",
+  "h_mean" : "देवताऔ के लिए"
+}, {
+  "word" : "FOR THE LIGHT",
+  "mean" : "प्रकाशाय",
+  "h_mean" : "रोशनी के लिए"
+}, {
+  "word" : "FOR THE POOR",
+  "mean" : "याचकाय",
+  "h_mean" : "गरीब के लिए"
+}, {
+  "word" : "FOREST",
+  "mean" : "वने",
+  "h_mean" : "जंगल"
+}, {
+  "word" : "FOUR",
+  "mean" : "चत्वारि",
+  "h_mean" : "चार"
+}, {
+  "word" : "FOURTEEN",
+  "mean" : "चतुर्दश",
+  "h_mean" : "चोदह"
+}, {
+  "word" : "FRIENDS",
+  "mean" : "मित्रम्",
+  "h_mean" : "दोस्त"
+}, {
+  "word" : "FRIENDS",
+  "mean" : "सृहृद्",
+  "h_mean" : "दोस्त"
+}, {
+  "word" : "FROM BEHIND",
+  "mean" : "परोक्षे",
+  "h_mean" : "पीचे से"
+}, {
+  "word" : "FROM CLASS",
+  "mean" : "कक्षायाः",
+  "h_mean" : "कक्षा से"
+}, {
+  "word" : "FROM STICK",
+  "mean" : "दण्डेन",
+  "h_mean" : "डंडा"
+}, {
+  "word" : "FROM THE MONSTER",
+  "mean" : "राक्षसेन",
+  "h_mean" : "राक्षस से"
+}, {
+  "word" : "FROM THE TWO EYES",
+  "mean" : "नेत्राभ्याम्",
+  "h_mean" : "दो आखो से"
+}, {
+  "word" : "GARLAND",
+  "mean" : "मालाः",
+  "h_mean" : "माला"
+}, {
+  "word" : "GARLAND MAKER",
+  "mean" : "मालाकारः",
+  "h_mean" : "फूल वाला"
+}, {
+  "word" : "Garland maker",
+  "mean" : "मालाकारः",
+  "h_mean" : "मालाकार"
+}, {
+  "word" : "GAVE",
+  "mean" : "अयच्छत्",
+  "h_mean" : "दिया"
+}, {
+  "word" : "GIRL",
+  "mean" : "बालिका",
+  "h_mean" : "लडकी"
+}, {
+  "word" : "GIRL STUDENT",
+  "mean" : "छात्रा",
+  "h_mean" : "छात्रा"
+}, {
+  "word" : "GIVE",
+  "mean" : "यच्छति",
+  "h_mean" : "देना"
+}, {
+  "word" : "GIVE TO WHOM",
+  "mean" : "काभ्याम्",
+  "h_mean" : "दो किसको"
+}, {
+  "word" : "GIVES",
+  "mean" : "ददाति",
+  "h_mean" : "देता हैं"
+}, {
+  "word" : "GOD",
+  "mean" : "ईश्वरं",
+  "h_mean" : "ईश्वर"
+}, {
+  "word" : "GOLD",
+  "mean" : "सुवर्ण",
+  "h_mean" : "सोना"
+}, {
+  "word" : "GOOD AIR",
+  "mean" : "शुध्दवायुं",
+  "h_mean" : "अच्छी वायु"
+}, {
+  "word" : "GOOD HUMAN",
+  "mean" : "आदर्शः",
+  "h_mean" : "अच्छे इन्सान"
+}, {
+  "word" : "GOT IN DONE",
+  "mean" : "अकारयत्",
+  "h_mean" : "करवाया"
+}, {
+  "word" : "GRANDFATHER",
+  "mean" : "पितामहः",
+  "h_mean" : "बाबा"
+}, {
+  "word" : "GRANDSON",
+  "mean" : "पोत्रः",
+  "h_mean" : "पोता"
+}, {
+  "word" : "GRAZE",
+  "mean" : "चरन्ति",
+  "h_mean" : "चरते हैं"
+}, {
+  "word" : "GREAT SAGE",
+  "mean" : "महर्षि",
+  "h_mean" : "महान ॠषि"
+}, {
+  "word" : "GREEDY",
+  "mean" : "लुब्धः",
+  "h_mean" : "लालची"
+}, {
+  "word" : "GREETINGS",
+  "mean" : "नमामः",
+  "h_mean" : "प्रणाम"
+}, {
+  "word" : "GREETINGS TO ALL",
+  "mean" : "प्रणमन्ति",
+  "h_mean" : "सब को प्रणाम"
+}, {
+  "word" : "HANDS",
+  "mean" : "हस्तौ",
+  "h_mean" : "हाथ"
+}, {
+  "word" : "HAPPINESS",
+  "mean" : "प्रसीदति",
+  "h_mean" : "प्रसन्न होते हैं"
+}, {
+  "word" : "HAPPY",
+  "mean" : "प्रसन्नाः",
+  "h_mean" : "खुश"
+}, {
+  "word" : "HARE AND THERE",
+  "mean" : "इतस्ततः",
+  "h_mean" : "इधर उधर"
+}, {
+  "word" : "HAS PASSED",
+  "mean" : "व्यतीतम्",
+  "h_mean" : "बीत गया"
+}, {
+  "word" : "HAVE GONE",
+  "mean" : "अगच्छत्",
+  "h_mean" : "गए"
+}, {
+  "word" : "HAVING RISEN",
+  "mean" : "उत्थाय",
+  "h_mean" : "खडे होकर"
+}, {
+  "word" : "HAVING TIED",
+  "mean" : "बध्वा",
+  "h_mean" : "बाधकर"
+}, {
+  "word" : "HE",
+  "mean" : "सः",
+  "h_mean" : "वह"
+}, {
+  "word" : "HE ALL",
+  "mean" : "ते",
+  "h_mean" : "वह सब"
+}, {
+  "word" : "HE KNOWS",
+  "mean" : "जानाति",
+  "h_mean" : "जानता हैं"
+}, {
+  "word" : "HE MADE A PROMISE",
+  "mean" : "पतिज्ञाम्",
+  "h_mean" : "प्रतिज्ञा"
+}, {
+  "word" : "HEALTH",
+  "mean" : "स्वस्थः",
+  "h_mean" : "स्वास्थ"
+}, {
+  "word" : "HELLO",
+  "mean" : "नमतः",
+  "h_mean" : "नमस्कार"
+}, {
+  "word" : "HERE",
+  "mean" : "अत्र",
+  "h_mean" : "यहांॅ"
+}, {
+  "word" : "HERE-THERE",
+  "mean" : "इतस्ततः",
+  "h_mean" : "ईधर उधर"
+}, {
+  "word" : "HIS",
+  "mean" : "तस्य",
+  "h_mean" : "उसका"
+}, {
+  "word" : "HOME",
+  "mean" : "गृह",
+  "h_mean" : "घर"
+}, {
+  "word" : "HOME WORK",
+  "mean" : "गृह कार्यम्",
+  "h_mean" : "गृह कार्य"
+}, {
+  "word" : "HORSE TO",
+  "mean" : "अश्वात्",
+  "h_mean" : "घौड़े से"
+}, {
+  "word" : "HOW",
+  "mean" : "कति",
+  "h_mean" : "कितने"
+}, {
+  "word" : "HOW",
+  "mean" : "कैैसा",
+  "h_mean" : "कीदृशम्"
+}, {
+  "word" : "HUMAN",
+  "mean" : "नरः",
+  "h_mean" : "मनुष्य"
+}, {
+  "word" : "Human",
+  "mean" : "नरः",
+  "h_mean" : "मनुष्य"
+}, {
+  "word" : "HUMAN",
+  "mean" : "नरः",
+  "h_mean" : "नर"
+}, {
+  "word" : "HUNGRY",
+  "mean" : "क्षधितः",
+  "h_mean" : "भुखा"
+}, {
+  "word" : "I BREAK",
+  "mean" : "त्रोटयामि",
+  "h_mean" : "मैं तोड़ती है"
+}, {
+  "word" : "I LIVE",
+  "mean" : "वसामि",
+  "h_mean" : "रहता हुॅं"
+}, {
+  "word" : "I PLUCK",
+  "mean" : "त्रोटयामि",
+  "h_mean" : "में तोडता हुॅ"
+}, {
+  "word" : "I READ",
+  "mean" : "पठामि",
+  "h_mean" : "मैं पढता हुॅं"
+}, {
+  "word" : "I SEE",
+  "mean" : "द्रक्ष्यामि",
+  "h_mean" : "देखता हॅुं"
+}, {
+  "word" : "I WALK",
+  "mean" : "चलामि",
+  "h_mean" : "मैं चलता हुॅ"
+}, {
+  "word" : "I WANT TO",
+  "mean" : "वाञ्छामि",
+  "h_mean" : "में चाहता हॅं"
+}, {
+  "word" : "I WILL ACCEPT DEFEAT",
+  "mean" : "अहं पराजयं स्वीकर्तास्मि",
+  "h_mean" : "हार मानुगा"
+}, {
+  "word" : "I WILL GO",
+  "mean" : "चलिष्यामि",
+  "h_mean" : "चलुगा"
+}, {
+  "word" : "I WILL STAY",
+  "mean" : "निवत्स्यामि",
+  "h_mean" : "रहुगा"
+}, {
+  "word" : "IMMEDIATELY",
+  "mean" : "त्वरितम्",
+  "h_mean" : "शीघ्र"
+}, {
+  "word" : "IMPORTANT",
+  "mean" : "अनिवार्यम्",
+  "h_mean" : "जरुरी"
+}, {
+  "word" : "IN AFTERNOON HOLIDAY",
+  "mean" : "मध्यावकाशे",
+  "h_mean" : "दोपहर की छुटटी"
+}, {
+  "word" : "IN ALL CITIES",
+  "mean" : "नगरेषु",
+  "h_mean" : "सब शहरो मे"
+}, {
+  "word" : "IN ALL SCHOOL",
+  "mean" : "विदयालयेषु",
+  "h_mean" : "विदयालय में"
+}, {
+  "word" : "IN ALL TEMPLE",
+  "mean" : "देवालयेषु",
+  "h_mean" : "सब मंन्दिर"
+}, {
+  "word" : "IN ALL TREES",
+  "mean" : "वृक्षेषु",
+  "h_mean" : "सभी पेडो में"
+}, {
+  "word" : "IN BRIDGE",
+  "mean" : "सेतोः",
+  "h_mean" : "पुल में"
+}, {
+  "word" : "IN EVENING",
+  "mean" : "सायकाले",
+  "h_mean" : "शाम के समय"
+}, {
+  "word" : "IN FOREST",
+  "mean" : "वने",
+  "h_mean" : "वन मे"
+}, {
+  "word" : "IN FORT",
+  "mean" : "प्रासादेषु",
+  "h_mean" : "किला मे"
+}, {
+  "word" : "IN FRONT OF ME",
+  "mean" : "सम्मुखम्",
+  "h_mean" : "मेरे सामने"
+}, {
+  "word" : "IN FRONT OF THE TEACHER",
+  "mean" : "गुरोरग्रे",
+  "h_mean" : "गुरु के आगे"
+}, {
+  "word" : "IN LAKES",
+  "mean" : "सरोवरेषु",
+  "h_mean" : "सरोवरों में"
+}, {
+  "word" : "IN LIBRARY",
+  "mean" : "पुस्तकालयेषु",
+  "h_mean" : "पुस्तकालय में"
+}, {
+  "word" : "IN LIFE",
+  "mean" : "जीवने",
+  "h_mean" : "जीवन में"
+}, {
+  "word" : "IN PLAYGROUND",
+  "mean" : "क्रडाक्षेत्रे",
+  "h_mean" : "खेलने का मेदान मे"
+}, {
+  "word" : "IN POTS",
+  "mean" : "पात्रेषु",
+  "h_mean" : "बर्तनो मे"
+}, {
+  "word" : "IN ROUTE",
+  "mean" : "मार्गे",
+  "h_mean" : "रास्ते में"
+}, {
+  "word" : "IN SKY",
+  "mean" : "आकाशे",
+  "h_mean" : "आकाश में"
+}, {
+  "word" : "IN THE MARKET",
+  "mean" : "आपणे",
+  "h_mean" : "बाजार में"
+}, {
+  "word" : "IN THE OF PROGRESS",
+  "mean" : "वृध्दिकाले",
+  "h_mean" : "उन्नति के समय में"
+}, {
+  "word" : "IN TIME",
+  "mean" : "समये",
+  "h_mean" : "समय पर"
+}, {
+  "word" : "IN TROUBLE",
+  "mean" : "व्यसनेषु",
+  "h_mean" : "मुसीबतो में"
+}, {
+  "word" : "IN TWO HOUSE",
+  "mean" : "गृहयोः",
+  "h_mean" : "दो घरो में"
+}, {
+  "word" : "IN VILLAGE",
+  "mean" : "ग्रामे",
+  "h_mean" : "गाॅंव में"
+}, {
+  "word" : "IN WATER",
+  "mean" : "जले",
+  "h_mean" : "जल में"
+}, {
+  "word" : "INDEPENDENCE",
+  "mean" : "स्वतन्त्राः",
+  "h_mean" : "स्वतन्त्र"
+}, {
+  "word" : "INTELLIGENCE",
+  "mean" : "बुध्दिः",
+  "h_mean" : "बुध्दि"
+}, {
+  "word" : "INTELLIGENCE",
+  "mean" : "मतिः",
+  "h_mean" : "बुध्दि"
+}, {
+  "word" : "INTRODUCTION",
+  "mean" : "परिचयम्",
+  "h_mean" : "परिचय"
+}, {
+  "word" : "IS DONE",
+  "mean" : "असि",
+  "h_mean" : "हो जाए"
+}, {
+  "word" : "IT COMES",
+  "mean" : "आगच्छति",
+  "h_mean" : "आता हैं"
+}, {
+  "word" : "IT CROSSES",
+  "mean" : "लङ्घयते",
+  "h_mean" : "पार करता हैं"
+}, {
+  "word" : "IT WAS DESTROYED",
+  "mean" : "अनशयत्",
+  "h_mean" : "नष्ट हो गया"
+}, {
+  "word" : "JUSTICE",
+  "mean" : "न्यायम्",
+  "h_mean" : "न्याय"
+}, {
+  "word" : "KILLS A LOT OF PEOPLE",
+  "mean" : "मारयन्ति",
+  "h_mean" : "कइ सारे लोगो को मारता है"
+}, {
+  "word" : "KING",
+  "mean" : "नृपः",
+  "h_mean" : "राजा"
+}, {
+  "word" : "LABOR",
+  "mean" : "उद्यमः",
+  "h_mean" : "मेहनत"
+}, {
+  "word" : "LAME",
+  "mean" : "पड़गुं",
+  "h_mean" : "लंगड़ा"
+}, {
+  "word" : "LEARN",
+  "mean" : "स्मरति",
+  "h_mean" : "याद करते हैं"
+}, {
+  "word" : "LEAVES",
+  "mean" : "पत्राणि",
+  "h_mean" : "पत्तिया"
+}, {
+  "word" : "LEGS",
+  "mean" : "चरणैः",
+  "h_mean" : "पेर"
+}, {
+  "word" : "LET US BOTH GO",
+  "mean" : "चलिषयावः",
+  "h_mean" : "हम दोनो चलते हैं"
+}, {
+  "word" : "LET'GET UP",
+  "mean" : "उत्तष्ठति",
+  "h_mean" : "उठते हैं"
+}, {
+  "word" : "LIBRARY",
+  "mean" : "पुस्तकालयात्",
+  "h_mean" : "पुस्तकालय"
+}, {
+  "word" : "LIBRARY",
+  "mean" : "पुस्तकालयात्",
+  "h_mean" : "पुस्तकालय से"
+}, {
+  "word" : "LION",
+  "mean" : "सिहाः",
+  "h_mean" : "सिह"
+}, {
+  "word" : "LIST",
+  "mean" : "सूचीबध्दान",
+  "h_mean" : "सूचीकरणम्"
+}, {
+  "word" : "LOIN",
+  "mean" : "सिहः",
+  "h_mean" : "शेर"
+}, {
+  "word" : "LOTUS",
+  "mean" : "कमलम्",
+  "h_mean" : "कमल"
+}, {
+  "word" : "MADE A PROFIT",
+  "mean" : "अलुभ्यत्",
+  "h_mean" : "लोभ किया"
+}, {
+  "word" : "MAKE",
+  "mean" : "रचयति",
+  "h_mean" : "बनाता हैं"
+}, {
+  "word" : "MANGO",
+  "mean" : "आम्रम्",
+  "h_mean" : "आम"
+}, {
+  "word" : "MANY",
+  "mean" : "नाना",
+  "h_mean" : "कई"
+}, {
+  "word" : "ME",
+  "mean" : "माम्",
+  "h_mean" : "मुझे"
+}, {
+  "word" : "MEANING",
+  "mean" : "अथार्त",
+  "h_mean" : "अथर्"
+}, {
+  "word" : "MEAT",
+  "mean" : "मांसस्य",
+  "h_mean" : "मांस की"
+}, {
+  "word" : "MEDICINES",
+  "mean" : "औषधम्",
+  "h_mean" : "दवाई"
+}, {
+  "word" : "MILK",
+  "mean" : "दुग्धं",
+  "h_mean" : "दुध"
+}, {
+  "word" : "MONKEYS",
+  "mean" : "वानराः",
+  "h_mean" : "बंदर"
+}, {
+  "word" : "MORE GREED",
+  "mean" : "अतिलोभः",
+  "h_mean" : "अधिक लालच"
+}, {
+  "word" : "MORNING",
+  "mean" : "प्रभात",
+  "h_mean" : "सुबह"
+}, {
+  "word" : "MORNING",
+  "mean" : "प्रातः",
+  "h_mean" : "सुबह"
+}, {
+  "word" : "MORNING 4'O CLOCK",
+  "mean" : "ब्रह्म मुहुर्ते",
+  "h_mean" : "सुबह ४ बजे"
+}, {
+  "word" : "MOTHER",
+  "mean" : "मांॅ",
+  "h_mean" : "अम्बा"
+}, {
+  "word" : "MOTHER'S",
+  "mean" : "मातुः",
+  "h_mean" : "माता का"
+}, {
+  "word" : "MOTHER'S BROTHER",
+  "mean" : "मातुलस्य",
+  "h_mean" : "मामा का"
+}, {
+  "word" : "MOTHERS",
+  "mean" : "मातरः",
+  "h_mean" : "माताएँ"
+}, {
+  "word" : "MY",
+  "mean" : "मम",
+  "h_mean" : "मेरा"
+}, {
+  "word" : "MY",
+  "mean" : "मया",
+  "h_mean" : "मेरे"
+}, {
+  "word" : "MY COME",
+  "mean" : "आनयामि",
+  "h_mean" : "मैं आता हुॅं"
+}, {
+  "word" : "MY FRIENDS",
+  "mean" : "स्वमित्रै",
+  "h_mean" : "अपने मित्र"
+}, {
+  "word" : "MY PARENTS",
+  "mean" : "स्वमातरं पितरं",
+  "h_mean" : "मेरे माता पिता"
+}, {
+  "word" : "MY SHADOW",
+  "mean" : "स्व प्रतिबिम्बम्",
+  "h_mean" : "अपनी परछाई"
+}, {
+  "word" : "MY SISTER",
+  "mean" : "स्वभगिन्य",
+  "h_mean" : "मेरी बहन"
+}, {
+  "word" : "MY STUDY",
+  "mean" : "स्वाध्यायं",
+  "h_mean" : "अपनी पढाई"
+}, {
+  "word" : "NAME",
+  "mean" : "अभिधानं",
+  "h_mean" : "नाम"
+}, {
+  "word" : "NAME",
+  "mean" : "अभिधानानि",
+  "h_mean" : "नाम"
+}, {
+  "word" : "NESTS",
+  "mean" : "नीङे",
+  "h_mean" : "घोसला"
+}, {
+  "word" : "NEWSPAPER",
+  "mean" : "समाचारपत्रं",
+  "h_mean" : "अखबार"
+}, {
+  "word" : "NO",
+  "mean" : "न",
+  "h_mean" : "नही"
+}, {
+  "word" : "NO",
+  "mean" : "नहि",
+  "h_mean" : "नही"
+}, {
+  "word" : "NOT",
+  "mean" : "नास्ति",
+  "h_mean" : "नही"
+}, {
+  "word" : "NOW",
+  "mean" : "अधुना",
+  "h_mean" : "अभी"
+}, {
+  "word" : "NOW ONWARDS",
+  "mean" : "प्रत्यक्षे",
+  "h_mean" : "आगे से"
+}, {
+  "word" : "OF DARKNESS",
+  "mean" : "अन्धकारस्य",
+  "h_mean" : "अन्धकार का"
+}, {
+  "word" : "OF DEATH",
+  "mean" : "मृत्योः",
+  "h_mean" : "मृत्यु के"
+}, {
+  "word" : "OF GOD",
+  "mean" : "ईश्वरस्य",
+  "h_mean" : "भगवान के"
+}, {
+  "word" : "OF THE PLAY",
+  "mean" : "नाटकस्य",
+  "h_mean" : "नाटक के"
+}, {
+  "word" : "OK",
+  "mean" : "अस्तु",
+  "h_mean" : "ठीक हैं"
+}, {
+  "word" : "OLD MEN",
+  "mean" : "वृद्धः",
+  "h_mean" : "बुड़ा"
+}, {
+  "word" : "ON CHAIR",
+  "mean" : "आसन्दिकायाम्",
+  "h_mean" : "कुर्सी पर"
+}, {
+  "word" : "ONCE",
+  "mean" : "एकस्मिन्",
+  "h_mean" : "एक बार"
+}, {
+  "word" : "ONCE UPON",
+  "mean" : "एकदा",
+  "h_mean" : "एक बार"
+}, {
+  "word" : "ONE MORE",
+  "mean" : "अपरम्",
+  "h_mean" : "एक और"
+}, {
+  "word" : "ONE PEOPLE RUN",
+  "mean" : "धावति",
+  "h_mean" : "दौडना"
+}, {
+  "word" : "ONE PERSON STUDIES",
+  "mean" : "पठति",
+  "h_mean" : "पढता हैं"
+}, {
+  "word" : "ONLY",
+  "mean" : "एव",
+  "h_mean" : "ही"
+}, {
+  "word" : "ONLY",
+  "mean" : "एवम्",
+  "h_mean" : "ही"
+}, {
+  "word" : "ONLY",
+  "mean" : "केवलम्",
+  "h_mean" : "केवल"
+}, {
+  "word" : "OTHER COUNTRIES",
+  "mean" : "विदेशेषु",
+  "h_mean" : "विदेश"
+}, {
+  "word" : "OTHER WORLD",
+  "mean" : "परलोके",
+  "h_mean" : "दुसरे लोक"
+}, {
+  "word" : "OUR",
+  "mean" : "अस्माकम्",
+  "h_mean" : "हम लोगो के"
+}, {
+  "word" : "OUT",
+  "mean" : "बहिः",
+  "h_mean" : "बहार"
+}, {
+  "word" : "PARK",
+  "mean" : "उद्यानम्",
+  "h_mean" : "बगीचा"
+}, {
+  "word" : "PATIENCE",
+  "mean" : "धैर्यम्",
+  "h_mean" : "सब्र"
+}, {
+  "word" : "PEACOCK",
+  "mean" : "मयुरः",
+  "h_mean" : "मोर"
+}, {
+  "word" : "PIECE",
+  "mean" : "खण्डम्",
+  "h_mean" : "टुकडा"
+}, {
+  "word" : "PLAY",
+  "mean" : "्रक्रीडति",
+  "h_mean" : "एक जना खैलता हैं"
+}, {
+  "word" : "PLAYS",
+  "mean" : "क्रीडन्ति",
+  "h_mean" : "सब खैलता हैं"
+}, {
+  "word" : "PLEASURE",
+  "mean" : "सुखिनः",
+  "h_mean" : "सुख से"
+}, {
+  "word" : "PLOUGH",
+  "mean" : "हलम्",
+  "h_mean" : "हल"
+}, {
+  "word" : "PLUCK",
+  "mean" : "त्रोटयति",
+  "h_mean" : "तोडता हें"
+}, {
+  "word" : "POISON POT",
+  "mean" : "विषकुम्भम्",
+  "h_mean" : "जहर का मटका"
+}, {
+  "word" : "POWER",
+  "mean" : "शक्तिः",
+  "h_mean" : "शक्ति"
+}, {
+  "word" : "PRAYER",
+  "mean" : "प्रार्थना",
+  "h_mean" : "प्रार्थना"
+}, {
+  "word" : "PREPARED",
+  "mean" : "सज्जाः",
+  "h_mean" : "तैयार"
+}, {
+  "word" : "PRINCIPAL",
+  "mean" : "प्राचार्यः",
+  "h_mean" : "प्रधानाध्यापक"
+}, {
+  "word" : "PROTECT ME",
+  "mean" : "रक्ष",
+  "h_mean" : "रक्षा करो"
+}, {
+  "word" : "PROTECTS",
+  "mean" : "रक्षति",
+  "h_mean" : "रक्षा करता है"
+}, {
+  "word" : "RAN AWAY",
+  "mean" : "पलायितः",
+  "h_mean" : "पलायन"
+}, {
+  "word" : "RATHER",
+  "mean" : "अपितु",
+  "h_mean" : "बल्कि"
+}, {
+  "word" : "RECEIVES",
+  "mean" : "प्राप्नोति",
+  "h_mean" : "प्राप्त करता हैं"
+}, {
+  "word" : "RELIGION",
+  "mean" : "धर्मः",
+  "h_mean" : "धर्म"
+}, {
+  "word" : "RESIDE",
+  "mean" : "निवसन्ति",
+  "h_mean" : "निवास करते हैं"
+}, {
+  "word" : "RESPECTED",
+  "mean" : "अर्यते",
+  "h_mean" : "आदरणीय"
+}, {
+  "word" : "REST",
+  "mean" : "विश्राम्",
+  "h_mean" : "आराम"
+}, {
+  "word" : "RETURNED",
+  "mean" : "प्रत्यागच्छत्",
+  "h_mean" : "लोटे"
+}, {
+  "word" : "RIVER",
+  "mean" : "नदी",
+  "h_mean" : "नदी"
+}, {
+  "word" : "ROAR",
+  "mean" : "गर्जन्ति",
+  "h_mean" : "दहाडते है"
+}, {
+  "word" : "ROSARY",
+  "mean" : "जपमाला",
+  "h_mean" : "जपमाला"
+}, {
+  "word" : "ROSE",
+  "mean" : "पाटलम्",
+  "h_mean" : "गुलाब"
+}, {
+  "word" : "RULES",
+  "mean" : "नियोज्य",
+  "h_mean" : "नियम"
+}, {
+  "word" : "RUN",
+  "mean" : "धावन्ति",
+  "h_mean" : "भागना"
+}, {
+  "word" : "RUNNING",
+  "mean" : "अधावत्",
+  "h_mean" : "भागता है"
+}, {
+  "word" : "SALUTE THEM",
+  "mean" : "नमामस्तौ",
+  "h_mean" : "उन दोनो को नमस्कार करते है"
+}, {
+  "word" : "SALUTES",
+  "mean" : "प्रणमति",
+  "h_mean" : "प्रणाम करता है"
+}, {
+  "word" : "SAW",
+  "mean" : "अपश्यत्",
+  "h_mean" : "देखा"
+}, {
+  "word" : "SCHOOL",
+  "mean" : "विद्यालयं",
+  "h_mean" : "विद्यालय"
+}, {
+  "word" : "SHADOW",
+  "mean" : "छाया",
+  "h_mean" : "परछाई"
+}, {
+  "word" : "SHE",
+  "mean" : "इयम्",
+  "h_mean" : "यह लडकी को"
+}, {
+  "word" : "SHE ALL",
+  "mean" : "ताः",
+  "h_mean" : "वह सब"
+}, {
+  "word" : "SHELL",
+  "mean" : "शंखानाम्",
+  "h_mean" : "शंख"
+}, {
+  "word" : "SHOP",
+  "mean" : "पण्यगृहम्",
+  "h_mean" : "दुकान"
+}, {
+  "word" : "SILVER",
+  "mean" : "रजत",
+  "h_mean" : "चादी"
+}, {
+  "word" : "SINCE CHILDHOOD",
+  "mean" : "बाल्यात्",
+  "h_mean" : "बचपन से"
+}, {
+  "word" : "SINGS",
+  "mean" : "गायति",
+  "h_mean" : "गाता हैं"
+}, {
+  "word" : "SIT DOWN",
+  "mean" : "उपविशति",
+  "h_mean" : "बैठता हैं"
+}, {
+  "word" : "SLEEP",
+  "mean" : "शयनम्",
+  "h_mean" : "सोना"
+}, {
+  "word" : "SMALL BROTHER",
+  "mean" : "अनुजः",
+  "h_mean" : "छोटा भाई"
+}, {
+  "word" : "SO",
+  "mean" : "अतएव",
+  "h_mean" : "इसलिए"
+}, {
+  "word" : "SO",
+  "mean" : "तर्हि",
+  "h_mean" : "तो"
+}, {
+  "word" : "SO",
+  "mean" : "तु",
+  "h_mean" : "तौ"
+}, {
+  "word" : "SO",
+  "mean" : "यद्",
+  "h_mean" : "तो"
+}, {
+  "word" : "SO MANY",
+  "mean" : "अनेके",
+  "h_mean" : "अनेक मैं"
+}, {
+  "word" : "SOFT",
+  "mean" : "शीतला",
+  "h_mean" : "शीतल"
+}, {
+  "word" : "SOIL",
+  "mean" : "मृत्तिका",
+  "h_mean" : "मिट्टी"
+}, {
+  "word" : "SON OF",
+  "mean" : "पुत्रस्य",
+  "h_mean" : "पुत्र का"
+}, {
+  "word" : "SOUND",
+  "mean" : "शब्दः",
+  "h_mean" : "आवाज"
+}, {
+  "word" : "SPEAKER",
+  "mean" : "वादिनम्",
+  "h_mean" : "बोलने वाला"
+}, {
+  "word" : "SPEAKING",
+  "mean" : "वाचालं",
+  "h_mean" : "बोलने वाला"
+}, {
+  "word" : "SPOILER",
+  "mean" : "हन्तारम्",
+  "h_mean" : "बीगाड़ ने वाला"
+}, {
+  "word" : "STATE",
+  "mean" : "राज्यम्",
+  "h_mean" : "राज्य"
+}, {
+  "word" : "STATE BURDEN",
+  "mean" : "राज्यभारम्",
+  "h_mean" : "राज्यभार"
+}, {
+  "word" : "STAYS",
+  "mean" : "वसति",
+  "h_mean" : "रहता हैं"
+}, {
+  "word" : "STOLE IT",
+  "mean" : "अचोरयत्",
+  "h_mean" : "चुरा लिया"
+}, {
+  "word" : "STOPPING",
+  "mean" : "रूध्दोअभवत्",
+  "h_mean" : "रुक कर"
+}, {
+  "word" : "STUDENT",
+  "mean" : "छात्रः",
+  "h_mean" : "छात्र"
+}, {
+  "word" : "STUDENT'S",
+  "mean" : "छात्राणाम्",
+  "h_mean" : "छात्रो का"
+}, {
+  "word" : "STUDY",
+  "mean" : "अध्ययनम्",
+  "h_mean" : "पढाई"
+}, {
+  "word" : "SUNDAY",
+  "mean" : "रविवासरः",
+  "h_mean" : "रविवार"
+}, {
+  "word" : "SUNRISE",
+  "mean" : "सुर्योदयः",
+  "h_mean" : "सुर्य का उदय"
+}, {
+  "word" : "SUPER POWER",
+  "mean" : "सर्वशक्ति",
+  "h_mean" : "सर्वशक्तिमान"
+}, {
+  "word" : "SWEET MOUTH",
+  "mean" : "पयोमुखम्",
+  "h_mean" : "मीठे मुह वाला"
+}, {
+  "word" : "TAKING",
+  "mean" : "नित्वा",
+  "h_mean" : "लेकर"
+}, {
+  "word" : "TALENTED",
+  "mean" : "प्रतिभान्तु",
+  "h_mean" : "प्रतिभाशाली"
+}, {
+  "word" : "TALKING",
+  "mean" : "वदन्ति",
+  "h_mean" : "बाते करना"
+}, {
+  "word" : "TEACHER",
+  "mean" : "अध्यापकः",
+  "h_mean" : "अध्यापक"
+}, {
+  "word" : "TEACHER'S",
+  "mean" : "अध्यापकानाम्",
+  "h_mean" : "अध्यापक को"
+}, {
+  "word" : "TEACHES",
+  "mean" : "पाठयति",
+  "h_mean" : "पडाता हैं"
+}, {
+  "word" : "TELEVISION",
+  "mean" : "दुरदर्शन",
+  "h_mean" : "दुरदर्शनं"
+}, {
+  "word" : "THAT",
+  "mean" : "यत्",
+  "h_mean" : "कि"
+}, {
+  "word" : "THAT KIND OF THING SHOULD BE LEFT ALONE",
+  "mean" : "वर्जयेत्तादृशम्",
+  "h_mean" : "वैसे को छोड़ देना चाहिए"
+}, {
+  "word" : "That person",
+  "mean" : "असौ",
+  "h_mean" : "उस"
+}, {
+  "word" : "THE",
+  "mean" : "तु",
+  "h_mean" : "तौ"
+}, {
+  "word" : "THE DEVOTEE",
+  "mean" : "भक्तः",
+  "h_mean" : "भक्त"
+}, {
+  "word" : "THE IDEAL BROTHER",
+  "mean" : "आदर्श भ्राता",
+  "h_mean" : "आदर्श भाई"
+}, {
+  "word" : "THE IDEAL WIFE",
+  "mean" : "आदर्श भार्या",
+  "h_mean" : "आदर्श पत्नी"
+}, {
+  "word" : "THEM",
+  "mean" : "तमहं",
+  "h_mean" : "उनकी"
+}, {
+  "word" : "THEN",
+  "mean" : "उभौ",
+  "h_mean" : "फिर"
+}, {
+  "word" : "THEN",
+  "mean" : "तदा",
+  "h_mean" : "तब"
+}, {
+  "word" : "THERE",
+  "mean" : "तत्र",
+  "h_mean" : "वहा"
+}, {
+  "word" : "THERE",
+  "mean" : "तत्र",
+  "h_mean" : "वहाॅ"
+}, {
+  "word" : "THERE ARE SIX",
+  "mean" : "षडेते",
+  "h_mean" : "यह छः"
+}, {
+  "word" : "THEREFORE",
+  "mean" : "अतएव",
+  "h_mean" : "इसलिए"
+}, {
+  "word" : "THESE TWO",
+  "mean" : "तौ",
+  "h_mean" : "वे दोनों"
+}, {
+  "word" : "THESE TWO GIRLS",
+  "mean" : "इमे",
+  "h_mean" : "ये दो लडकिया"
+}, {
+  "word" : "THEY ARE INTERTWINING",
+  "mean" : "गुम्फति",
+  "h_mean" : "गूथता हैॱ"
+}, {
+  "word" : "THEY LIVES",
+  "mean" : "वसन्ति",
+  "h_mean" : "वे रहते हैं"
+}, {
+  "word" : "THEY TWO GIRLS",
+  "mean" : "ते",
+  "h_mean" : "वे दो लडकिया"
+}, {
+  "word" : "THIS ALL",
+  "mean" : "सन्ति",
+  "h_mean" : "ये सब"
+}, {
+  "word" : "THIS BOYS",
+  "mean" : "अयम्",
+  "h_mean" : "यह लडका"
+}, {
+  "word" : "THIS THING",
+  "mean" : "इदम्",
+  "h_mean" : "यह क्या हैं"
+}, {
+  "word" : "THOUGHT",
+  "mean" : "अचिन्तयत्",
+  "h_mean" : "सोचा"
+}, {
+  "word" : "THREE",
+  "mean" : "त्रयः",
+  "h_mean" : "तीन"
+}, {
+  "word" : "TIED",
+  "mean" : "अबध्नात्",
+  "h_mean" : "बाँधा"
+}, {
+  "word" : "TIME",
+  "mean" : "वेला",
+  "h_mean" : "वेला"
+}, {
+  "word" : "TIMES",
+  "mean" : "वा",
+  "h_mean" : "बार"
+}, {
+  "word" : "TO ALL TEACHERS",
+  "mean" : "अध्यापिकान्",
+  "h_mean" : "सब अध्यापिका को"
+}, {
+  "word" : "TO BOY",
+  "mean" : "बालकस्य",
+  "h_mean" : "बालक के"
+}, {
+  "word" : "TO COOK",
+  "mean" : "पचति",
+  "h_mean" : "पकाना"
+}, {
+  "word" : "TO FIGHT TIME",
+  "mean" : "आक्रमणकाले",
+  "h_mean" : "आक्रमण के समय"
+}, {
+  "word" : "TO FIND",
+  "mean" : "अन्वेष्टुम्",
+  "h_mean" : "ढुढने"
+}, {
+  "word" : "TO GARDEN",
+  "mean" : "उद्यानात्",
+  "h_mean" : "उद्यान से"
+}, {
+  "word" : "TO GET",
+  "mean" : "प्राप्त्यर्थम्",
+  "h_mean" : "प्राप्त करने के लिए"
+}, {
+  "word" : "TO GIRL",
+  "mean" : "बालिकायाः",
+  "h_mean" : "लड़की के"
+}, {
+  "word" : "TO GO TO",
+  "mean" : "गन्तुम्",
+  "h_mean" : "जाने के लिए"
+}, {
+  "word" : "TO HOUSE",
+  "mean" : "गृहे",
+  "h_mean" : "घर पर"
+}, {
+  "word" : "TO LIE DOWN",
+  "mean" : "समाविशत्",
+  "h_mean" : "लेट गए"
+}, {
+  "word" : "TO NATURE",
+  "mean" : "स्वभावेन",
+  "h_mean" : "स्वभाव से"
+}, {
+  "word" : "TO PLAY",
+  "mean" : "क्रीङतुम्",
+  "h_mean" : "खेलने के लिए"
+}, {
+  "word" : "TO ROAM AROUND",
+  "mean" : "भ्रमणाय",
+  "h_mean" : "घुमने के लिए"
+}, {
+  "word" : "TO ROUTE",
+  "mean" : "मार्गेण",
+  "h_mean" : "मार्ग से"
+}, {
+  "word" : "TO THE ENEMY",
+  "mean" : "शत्रून्",
+  "h_mean" : "दुश्मन को"
+}, {
+  "word" : "TO THE HILL",
+  "mean" : "गिरिम्",
+  "h_mean" : "पर्वत को"
+}, {
+  "word" : "TO THE PIECE TO LAND",
+  "mean" : "केदारखण्डम्",
+  "h_mean" : "खेत क टुकङे को"
+}, {
+  "word" : "TO THE STUDENTS",
+  "mean" : "शिष्यान्",
+  "h_mean" : "शिष्यों को"
+}, {
+  "word" : "TO THE TEACHER",
+  "mean" : "अध्यापकम्",
+  "h_mean" : "अध्यापक को"
+}, {
+  "word" : "TO TIE",
+  "mean" : "बध्नुम्",
+  "h_mean" : "बाधना"
+}, {
+  "word" : "TO TWO HANDS",
+  "mean" : "हस्तयोः",
+  "h_mean" : "दो हाथ में"
+}, {
+  "word" : "TO TWO TREE",
+  "mean" : "वृक्षाभ्याम्",
+  "h_mean" : "दो पेड़ से"
+}, {
+  "word" : "TO VILLAGE",
+  "mean" : "ग्रामात्",
+  "h_mean" : "गाॅंव से"
+}, {
+  "word" : "TO WANDER",
+  "mean" : "अभ्रमत्",
+  "h_mean" : "भटका था"
+}, {
+  "word" : "TODAY",
+  "mean" : "अद्य",
+  "h_mean" : "आज"
+}, {
+  "word" : "TOMORROW",
+  "mean" : "श्वः",
+  "h_mean" : "कल"
+}, {
+  "word" : "TOO",
+  "mean" : "अपि",
+  "h_mean" : "भी"
+}, {
+  "word" : "TOO ANY",
+  "mean" : "कमपि",
+  "h_mean" : "कोई भी"
+}, {
+  "word" : "TOOK IT AWAY",
+  "mean" : "नयति",
+  "h_mean" : "ले गया"
+}, {
+  "word" : "TRAVELLER",
+  "mean" : "पथिकः",
+  "h_mean" : "यात्री"
+}, {
+  "word" : "TRUMPET",
+  "mean" : "बृहन्ति",
+  "h_mean" : "चिंग्घाडते है"
+}, {
+  "word" : "TWO ARE",
+  "mean" : "स्तः",
+  "h_mean" : "दो हैं"
+}, {
+  "word" : "TWO BOOKS",
+  "mean" : "पुस्तके",
+  "h_mean" : "दो पुस्तक"
+}, {
+  "word" : "TWO BOOKS",
+  "mean" : "पुस्तके",
+  "h_mean" : "दो किताब"
+}, {
+  "word" : "TWO BOYS",
+  "mean" : "इमौ",
+  "h_mean" : "दो लडके"
+}, {
+  "word" : "TWO BULLS",
+  "mean" : "वृषभौ",
+  "h_mean" : "दो बेल"
+}, {
+  "word" : "TWO COMPUTER",
+  "mean" : "संगणकौ",
+  "h_mean" : "दो संगणक हैं"
+}, {
+  "word" : "TWO FAN",
+  "mean" : "व्यजने",
+  "h_mean" : "दो पंखे"
+}, {
+  "word" : "TWO FLOWERS",
+  "mean" : "पुष्पे",
+  "h_mean" : "दो फुल"
+}, {
+  "word" : "TWO FRIENDS",
+  "mean" : "मित्रे",
+  "h_mean" : "दो दोस्त"
+}, {
+  "word" : "TWO GIRLS",
+  "mean" : "बालिके",
+  "h_mean" : "दो लडकिया"
+}, {
+  "word" : "TWO GIRLS DANCING",
+  "mean" : "नृत्यतः",
+  "h_mean" : "नृत्य"
+}, {
+  "word" : "TWO GIRLS STUDENT",
+  "mean" : "छात्रे",
+  "h_mean" : "ये दो छात्रा"
+}, {
+  "word" : "TWO LEGS",
+  "mean" : "चरणाभ्याम्",
+  "h_mean" : "दो पेर"
+}, {
+  "word" : "TWO LOTUS",
+  "mean" : "कमले",
+  "h_mean" : "दो कमल"
+}, {
+  "word" : "TWO PEOPLE DO",
+  "mean" : "कुरूतः",
+  "h_mean" : "दो लडके काम कर रहे हैं"
+}, {
+  "word" : "TWO PEOPLE HELLO",
+  "mean" : "नमतः",
+  "h_mean" : "दो लोग नमस्कार करते हैं"
+}, {
+  "word" : "TWO PEOPLE PLAY",
+  "mean" : "क्रीडतः",
+  "h_mean" : "दो लोग खेल रहे हैं"
+}, {
+  "word" : "TWO PEOPLE SINGS",
+  "mean" : "गायतः",
+  "h_mean" : "दो गाता हैं"
+}, {
+  "word" : "TWO PEOPLE STUDIES",
+  "mean" : "पठतः",
+  "h_mean" : "दो लोग पढ रहे हैं"
+}, {
+  "word" : "TWO PERSON TAKES IT AWAY",
+  "mean" : "नयतः",
+  "h_mean" : "दो लोग ले जाता हैं"
+}, {
+  "word" : "TWO ROSE",
+  "mean" : "पाटले",
+  "h_mean" : "दो गुलाब"
+}, {
+  "word" : "TWO SOLDERS",
+  "mean" : "सैनिकौ",
+  "h_mean" : "दो सैनिक"
+}, {
+  "word" : "TWO TAKES IT AWAY",
+  "mean" : "नयतः",
+  "h_mean" : "दो ले जाता हॅं"
+}, {
+  "word" : "TWO TEACHER",
+  "mean" : "अध्यापिके",
+  "h_mean" : "दो अध्यापिक"
+}, {
+  "word" : "TWO THIS THING",
+  "mean" : "इमे",
+  "h_mean" : "यह दो"
+}, {
+  "word" : "TWO WELL",
+  "mean" : "कुपाभ्याम्",
+  "h_mean" : "दो कुआ"
+}, {
+  "word" : "TWO WHEEL",
+  "mean" : "चक्रे",
+  "h_mean" : "दो पहिया"
+}, {
+  "word" : "TWO WITH TREE",
+  "mean" : "वृक्षाभ्याम्",
+  "h_mean" : "दो पेड़"
+}, {
+  "word" : "UNPRECEDENTED",
+  "mean" : "अभुतपूर्व",
+  "h_mean" : "पहले कभी न हुआ हो"
+}, {
+  "word" : "UNTIL",
+  "mean" : "यावत्",
+  "h_mean" : "जब तक"
+}, {
+  "word" : "VEGETATION",
+  "mean" : "वनस्पतिम्",
+  "h_mean" : "वनस्पति"
+}, {
+  "word" : "VICTORY",
+  "mean" : "अजयत्",
+  "h_mean" : "जीतना"
+}, {
+  "word" : "VILLAGE",
+  "mean" : "ग्रामम्",
+  "h_mean" : "गाव"
+}, {
+  "word" : "VIRTURE",
+  "mean" : "पुण्याय",
+  "h_mean" : "पुण्य"
+}, {
+  "word" : "WAS",
+  "mean" : "स्म",
+  "h_mean" : "था"
+}, {
+  "word" : "WAS CROSSING",
+  "mean" : "अत्यक्राम्यत्",
+  "h_mean" : "पार कर रहा था"
+}, {
+  "word" : "WASHES UP",
+  "mean" : "प्रक्षालयति",
+  "h_mean" : "धोता हैं"
+}, {
+  "word" : "WE",
+  "mean" : "अहम्",
+  "h_mean" : "मैं"
+}, {
+  "word" : "WE",
+  "mean" : "वयम्",
+  "h_mean" : "हम सब"
+}, {
+  "word" : "WE ALL",
+  "mean" : "अस्माकम्",
+  "h_mean" : "हम सब"
+}, {
+  "word" : "WE ALL PLAY TALES",
+  "mean" : "क्रीडामः",
+  "h_mean" : "हम सब खेलते हैं।"
+}, {
+  "word" : "WE ARE",
+  "mean" : "वयम्",
+  "h_mean" : "हम सब"
+}, {
+  "word" : "WE ARE",
+  "mean" : "अस्मि",
+  "h_mean" : "हुॅं"
+}, {
+  "word" : "WE ARE DONE",
+  "mean" : "स्मः",
+  "h_mean" : "हम सब का हो जाएगा"
+}, {
+  "word" : "WE EAT",
+  "mean" : "खादामि",
+  "h_mean" : "मैं खाता हॅं"
+}, {
+  "word" : "WE GOING",
+  "mean" : "गच्छामः",
+  "h_mean" : "हम सब जाते हैं"
+}, {
+  "word" : "WE MAKE",
+  "mean" : "रचयामि",
+  "h_mean" : "में बनाउॅंगा"
+}, {
+  "word" : "WE READ",
+  "mean" : "पठामः",
+  "h_mean" : "हम सब पढते हैं"
+}, {
+  "word" : "WEARING",
+  "mean" : "धारयित्वा",
+  "h_mean" : "पहनकर"
+}, {
+  "word" : "WEARS",
+  "mean" : "धारयति",
+  "h_mean" : "पहनता हैं"
+}, {
+  "word" : "WERE",
+  "mean" : "अभवन्",
+  "h_mean" : "थे"
+}, {
+  "word" : "WERE INFILTRATED",
+  "mean" : "अविशत्",
+  "h_mean" : "घुस गए"
+}, {
+  "word" : "WHAT",
+  "mean" : "किम्",
+  "h_mean" : "क्या"
+}, {
+  "word" : "WHEEL",
+  "mean" : "चक्रम्",
+  "h_mean" : "पहिया"
+}, {
+  "word" : "WHEN",
+  "mean" : "कदा",
+  "h_mean" : "कब"
+}, {
+  "word" : "WHEN",
+  "mean" : "यदा",
+  "h_mean" : "जब"
+}, {
+  "word" : "WHERE",
+  "mean" : "यत्र",
+  "h_mean" : "जहाॅं"
+}, {
+  "word" : "WHERE TO",
+  "mean" : "कुतः",
+  "h_mean" : "कहाॅं से"
+}, {
+  "word" : "WHILE STAYING GUST LIKE THAT",
+  "mean" : "तथा संस्यितस्य",
+  "h_mean" : "वैसा ठहरते हुए"
+}, {
+  "word" : "WHO",
+  "mean" : "कः",
+  "h_mean" : "कौन"
+}, {
+  "word" : "WHO ARE ALL THESE PEOPLE",
+  "mean" : "के जनाः",
+  "h_mean" : "ये सब कोन हैं"
+}, {
+  "word" : "WHO GIRL",
+  "mean" : "का",
+  "h_mean" : "कोन लडकी"
+}, {
+  "word" : "WHO TWO GIRLS",
+  "mean" : "के बालिके",
+  "h_mean" : "ये दो कोन लडकीया हैं"
+}, {
+  "word" : "WHY",
+  "mean" : "किमथर्म्",
+  "h_mean" : "किसलिए"
+}, {
+  "word" : "WHY",
+  "mean" : "किमर्थम्",
+  "h_mean" : "किसलिए"
+}, {
+  "word" : "WIFE",
+  "mean" : "भार्या",
+  "h_mean" : "पत्नी"
+}, {
+  "word" : "WILD",
+  "mean" : "वन्य",
+  "h_mean" : "जंगली"
+}, {
+  "word" : "WILDERNESS",
+  "mean" : "आरण्यम्",
+  "h_mean" : "जंगली"
+}, {
+  "word" : "WILL",
+  "mean" : "एव",
+  "h_mean" : "हि"
+}, {
+  "word" : "WILL MEET",
+  "mean" : "मेलिष्यामः",
+  "h_mean" : "मिलेगे"
+}, {
+  "word" : "WILL YOU DO IT",
+  "mean" : "करोषि",
+  "h_mean" : "करोगे"
+}, {
+  "word" : "WINNER",
+  "mean" : "विजयी",
+  "h_mean" : "जीतना"
+}, {
+  "word" : "WITH",
+  "mean" : "सह",
+  "h_mean" : "साथ"
+}, {
+  "word" : "WITH DEVOTION",
+  "mean" : "भक्त्या",
+  "h_mean" : "भक्त से"
+}, {
+  "word" : "WITH MUD",
+  "mean" : "मृत्तिकया",
+  "h_mean" : "मिटटी से"
+}, {
+  "word" : "WITH SPEED",
+  "mean" : "वेगेन",
+  "h_mean" : "वेग से"
+}, {
+  "word" : "WITH TIME",
+  "mean" : "कालेन",
+  "h_mean" : "समय से"
+}, {
+  "word" : "WITH TREE",
+  "mean" : "वृक्षाभ्याम्",
+  "h_mean" : "पेङ से"
+}, {
+  "word" : "WITH WHOM",
+  "mean" : "कस्मात्",
+  "h_mean" : "किस से ॱअलगॱ"
+}, {
+  "word" : "WITH WHOM",
+  "mean" : "केन",
+  "h_mean" : "किससे"
+}, {
+  "word" : "WITH WHOM",
+  "mean" : "कैः",
+  "h_mean" : "किससे"
+}, {
+  "word" : "WON IT",
+  "mean" : "अजयत्",
+  "h_mean" : "जीत लिया"
+}, {
+  "word" : "WORK",
+  "mean" : "काम",
+  "h_mean" : "कार्य"
+}, {
+  "word" : "WRITE",
+  "mean" : "लिखति",
+  "h_mean" : "लिखता है"
+}, {
+  "word" : "YEARS",
+  "mean" : "वर्षाणि",
+  "h_mean" : "कई साल"
+}, {
+  "word" : "YES",
+  "mean" : "आम्",
+  "h_mean" : "हांॅ"
+}, {
+  "word" : "YESTERDAY",
+  "mean" : "ह्यः",
+  "h_mean" : "बिता हुआ कल"
+}, {
+  "word" : "YOU",
+  "mean" : "त्वम्",
+  "h_mean" : "तुम"
+}, {
+  "word" : "YOU ALL",
+  "mean" : "यूयम्",
+  "h_mean" : "तुम सब"
+}, {
+  "word" : "YOU ALL DO",
+  "mean" : "कुरूथ",
+  "h_mean" : "तुम सब करोगे"
+}, {
+  "word" : "YOU ALL PLAY",
+  "mean" : "क्रीडथ",
+  "h_mean" : "तुम सब खेलते हो"
+}, {
+  "word" : "YOU ASK",
+  "mean" : "पृच्छसि",
+  "h_mean" : "तुम पुछते हो"
+}, {
+  "word" : "YOU BOTH PLAY",
+  "mean" : "क्रिङथः",
+  "h_mean" : "तुम दोनो खेलते हो"
+}, {
+  "word" : "YOU BOTH WILL GO",
+  "mean" : "आहुयताम्",
+  "h_mean" : "तुम दोनों जाओगे"
+}, {
+  "word" : "YOU PLUCK",
+  "mean" : "त्रोटयसि",
+  "h_mean" : "तुम तोडते हो"
+}, {
+  "word" : "YOU WALK",
+  "mean" : "चलसि",
+  "h_mean" : "तुम चलते हो"
+}, {
+  "word" : "YOU WORK",
+  "mean" : "करोषि",
+  "h_mean" : "तुम करते हो"
 } ]
-
