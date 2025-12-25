@@ -3,6 +3,14 @@
   "mean" : "दशवादने समये",
   "h_mean" : "दस बजे"
 }, {
+  "word" : "ABANDONED",
+  "mean" : "अत्यजत्",
+  "h_mean" : "छोड़ा हुआ"
+}, {
+  "word" : "ACCEPT",
+  "mean" : "ग्रहीष्यामि",
+  "h_mean" : "स्वीकार करना"
+}, {
   "word" : "ACCEPTED IT",
   "mean" : "अगृह्णात्",
   "h_mean" : "ग्रहण किया"
@@ -22,6 +30,10 @@
   "word" : "AFTER HEARING",
   "mean" : "श्रुत्वा",
   "h_mean" : "सुनकर"
+}, {
+  "word" : "AFTER SEEING",
+  "mean" : "विलोक्य",
+  "h_mean" : "देखकर"
 }, {
   "word" : "AFTER THAT",
   "mean" : "उपरान्तं",
@@ -136,7 +148,7 @@
   "h_mean" : "सब लोग"
 }, {
   "word" : "ALL PEOPLE DO",
-  "mean" : "कुवर्न्ति",
+  "mean" : "कुर्वन्ति",
   "h_mean" : "सब करते हैं"
 }, {
   "word" : "ALL PEOPLE SINGS",
@@ -146,10 +158,6 @@
   "word" : "ALL PEOPLE STUDIES",
   "mean" : "पठन्ति",
   "h_mean" : "सब पढते हैं"
-}, {
-  "word" : "ALL PEOPLE STUDIES",
-  "mean" : "पठन्ति",
-  "h_mean" : "सब पढते हैं।"
 }, {
   "word" : "ALL ROSES",
   "mean" : "पाटलानि",
@@ -471,7 +479,7 @@
   "mean" : "अवतरणः",
   "h_mean" : "चढता हैं"
 }, {
-  "word" : "CLOTHS",
+  "word" : "CLOTHES",
   "mean" : "वस्त्राणि",
   "h_mean" : "सब वस्त्र"
 }, {
@@ -506,6 +514,10 @@
   "word" : "COMPOUND",
   "mean" : "परिसरे",
   "h_mean" : "परिसर"
+}, {
+  "word" : "CONTINUOUS",
+  "mean" : "निरन्तरम्",
+  "h_mean" : "निरन्तर"
 }, {
   "word" : "COULD NOT",
   "mean" : "अशक्नोत्",
@@ -591,6 +603,10 @@
   "mean" : "प्रेषितः",
   "h_mean" : "भेजा दिया"
 }, {
+  "word" : "DISTRACTED",
+  "mean" : "विचलितः",
+  "h_mean" : "विचलित"
+}, {
   "word" : "DO YOU DO",
   "mean" : "करोषि",
   "h_mean" : "तुम करते हो"
@@ -646,6 +662,10 @@
   "word" : "EVEN MORE",
   "mean" : "चापि",
   "h_mean" : "और भी"
+}, {
+  "word" : "EVEN TODAY",
+  "mean" : "अद्यापि",
+  "h_mean" : "आज भी"
 }, {
   "word" : "EVENING",
   "mean" : "सन्धया",
@@ -730,6 +750,10 @@
   "word" : "FLOWING",
   "mean" : "निस्सरतो",
   "h_mean" : "वहता हुआ"
+}, {
+  "word" : "FOLLOWED",
+  "mean" : "अपालयन्",
+  "h_mean" : "पालन किया"
 }, {
   "word" : "FOOD",
   "mean" : "भोजनं",
@@ -871,6 +895,10 @@
   "mean" : "पोत्रः",
   "h_mean" : "पोता"
 }, {
+  "word" : "GRASS BREAD",
+  "mean" : "तृणरोटिकाः",
+  "h_mean" : "घास की रोटी"
+}, {
   "word" : "GRAZE",
   "mean" : "चरन्ति",
   "h_mean" : "चरते हैं"
@@ -983,14 +1011,6 @@
   "mean" : "नरः",
   "h_mean" : "मनुष्य"
 }, {
-  "word" : "Human",
-  "mean" : "नरः",
-  "h_mean" : "मनुष्य"
-}, {
-  "word" : "HUMAN",
-  "mean" : "नरः",
-  "h_mean" : "नर"
-}, {
   "word" : "HUNGRY",
   "mean" : "क्षधितः",
   "h_mean" : "भुखा"
@@ -1067,6 +1087,10 @@
   "mean" : "सेतोः",
   "h_mean" : "पुल में"
 }, {
+  "word" : "IN DEATH TIME",
+  "mean" : "मृत्युसमये",
+  "h_mean" : "मरने के समय में"
+}, {
   "word" : "IN EVENING",
   "mean" : "सायकाले",
   "h_mean" : "शाम के समय"
@@ -1110,6 +1134,10 @@
   "word" : "IN ROUTE",
   "mean" : "मार्गे",
   "h_mean" : "रास्ते में"
+}, {
+  "word" : "IN SELF MIND",
+  "mean" : "स्वमनसि",
+  "h_mean" : "अपने मन में"
 }, {
   "word" : "IN SKY",
   "mean" : "आकाशे",
@@ -1171,6 +1199,10 @@
   "mean" : "लङ्घयते",
   "h_mean" : "पार करता हैं"
 }, {
+  "word" : "IT INSPIRES",
+  "mean" : "प्रेरयति",
+  "h_mean" : "प्रेरित करती है"
+}, {
   "word" : "IT WAS DESTROYED",
   "mean" : "अनशयत्",
   "h_mean" : "नष्ट हो गया"
@@ -1218,10 +1250,6 @@
   "word" : "LIBRARY",
   "mean" : "पुस्तकालयात्",
   "h_mean" : "पुस्तकालय"
-}, {
-  "word" : "LIBRARY",
-  "mean" : "पुस्तकालयात्",
-  "h_mean" : "पुस्तकालय से"
 }, {
   "word" : "LION",
   "mean" : "सिहाः",
@@ -1391,6 +1419,10 @@
   "mean" : "ईश्वरस्य",
   "h_mean" : "भगवान के"
 }, {
+  "word" : "OF PRIDE",
+  "mean" : "गर्वस्य",
+  "h_mean" : "घमंड का"
+}, {
   "word" : "OF THE PLAY",
   "mean" : "नाटकस्य",
   "h_mean" : "नाटक के"
@@ -1439,6 +1471,10 @@
   "mean" : "केवलम्",
   "h_mean" : "केवल"
 }, {
+  "word" : "ONLY THEN",
+  "mean" : "तदैव",
+  "h_mean" : "तब ही"
+}, {
   "word" : "OTHER COUNTRIES",
   "mean" : "विदेशेषु",
   "h_mean" : "विदेश"
@@ -1462,6 +1498,10 @@
   "word" : "PATIENCE",
   "mean" : "धैर्यम्",
   "h_mean" : "सब्र"
+}, {
+  "word" : "PEACE",
+  "mean" : "शान्तिः",
+  "h_mean" : "शान्ति"
 }, {
   "word" : "PEACOCK",
   "mean" : "मयुरः",
@@ -1558,6 +1598,10 @@
   "word" : "ROAR",
   "mean" : "गर्जन्ति",
   "h_mean" : "दहाडते है"
+}, {
+  "word" : "ROCK-LIKE",
+  "mean" : "शैलवत्",
+  "h_mean" : "चट्टान के समान"
 }, {
   "word" : "ROSARY",
   "mean" : "जपमाला",
@@ -1707,6 +1751,10 @@
   "mean" : "रूध्दोअभवत्",
   "h_mean" : "रुक कर"
 }, {
+  "word" : "STRONG DETERMINATION",
+  "mean" : "दृढ़संकल्पेन",
+  "h_mean" : "दृढ़ संकल्प से"
+}, {
   "word" : "STUDENT",
   "mean" : "छात्रः",
   "h_mean" : "छात्र"
@@ -1806,10 +1854,6 @@
   "word" : "THERE",
   "mean" : "तत्र",
   "h_mean" : "वहा"
-}, {
-  "word" : "THERE",
-  "mean" : "तत्र",
-  "h_mean" : "वहाॅ"
 }, {
   "word" : "THERE ARE SIX",
   "mean" : "षडेते",
@@ -1995,6 +2039,14 @@
   "mean" : "पथिकः",
   "h_mean" : "यात्री"
 }, {
+  "word" : "TROUBLE",
+  "mean" : "संकटे",
+  "h_mean" : "मुसीबत"
+}, {
+  "word" : "TROUBLED WITH HUNGER",
+  "mean" : "क्षुधापीडितम्",
+  "h_mean" : "भूख से व्याकुल"
+}, {
   "word" : "TRUMPET",
   "mean" : "बृहन्ति",
   "h_mean" : "चिंग्घाडते है"
@@ -2002,10 +2054,6 @@
   "word" : "TWO ARE",
   "mean" : "स्तः",
   "h_mean" : "दो हैं"
-}, {
-  "word" : "TWO BOOKS",
-  "mean" : "पुस्तके",
-  "h_mean" : "दो पुस्तक"
 }, {
   "word" : "TWO BOOKS",
   "mean" : "पुस्तके",
