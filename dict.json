@@ -7,6 +7,10 @@
   "mean" : "अत्यजत्",
   "h_mean" : "छोड़ा हुआ"
 }, {
+  "word" : "ABILITY",
+  "mean" : "पात्रता",
+  "h_mean" : "योग्यता"
+}, {
   "word" : "ACCEPT",
   "mean" : "ग्रहीष्यामि",
   "h_mean" : "स्वीकार करना"
@@ -22,6 +26,14 @@
   "word" : "ACTING",
   "mean" : "अभिनयम्",
   "h_mean" : "नाटक को"
+}, {
+  "word" : "ADMIT",
+  "mean" : "मन्ये",
+  "h_mean" : "मानता हूॅं"
+}, {
+  "word" : "ADVOCATE",
+  "mean" : "वावकीलः",
+  "h_mean" : "वकील"
 }, {
   "word" : "AFTER",
   "mean" : "अनन्तरम्",
@@ -54,6 +66,10 @@
   "word" : "AIR-WAY",
   "mean" : "वायु मार्गेण",
   "h_mean" : "हवा मार्ग से"
+}, {
+  "word" : "ALL",
+  "mean" : "सर्वाः",
+  "h_mean" : "सभी"
 }, {
   "word" : "ALL ANIMALS",
   "mean" : "पशवः",
@@ -203,9 +219,21 @@
   "mean" : "सहैव",
   "h_mean" : "साथ हि"
 }, {
+  "word" : "ALREADY ARRIVED",
+  "mean" : "आपतितम्",
+  "h_mean" : "आया हुआ"
+}, {
   "word" : "ALWAYS",
   "mean" : "सदा",
   "h_mean" : "हमेशा"
+}, {
+  "word" : "AMONG PATRIOTS",
+  "mean" : "राष्ट्र भक्तेषु",
+  "h_mean" : "राष्ट्रभक्तों में"
+}, {
+  "word" : "AMONG PEOPLE",
+  "mean" : "जनेषु",
+  "h_mean" : "लोगों में"
 }, {
   "word" : "AMONG THEM",
   "mean" : "तेषु",
@@ -214,6 +242,10 @@
   "word" : "ANCIENT PERIOD",
   "mean" : "पुरा",
   "h_mean" : "प्राचिन काल"
+}, {
+  "word" : "AND",
+  "mean" : "एवम्",
+  "h_mean" : "और"
 }, {
   "word" : "ANIMALS",
   "mean" : "पशवः",
@@ -263,6 +295,14 @@
   "mean" : "अपृच्छत्",
   "h_mean" : "पुछा"
 }, {
+  "word" : "AT THE WORKING MOMENT",
+  "mean" : "कार्यकाले समुत्पन्ने",
+  "h_mean" : "कार्य का समय आने पर"
+}, {
+  "word" : "AT WILL",
+  "mean" : "यथेच्छम्",
+  "h_mean" : "इच्छानुसार"
+}, {
   "word" : "ATTENDED",
   "mean" : "उपस्थितः",
   "h_mean" : "मौजुद"
@@ -274,6 +314,10 @@
   "word" : "AWAY",
   "mean" : "दुरं",
   "h_mean" : "दुर"
+}, {
+  "word" : "BAD",
+  "mean" : "कुत्सितम्",
+  "h_mean" : "बुरा"
 }, {
   "word" : "BALL",
   "mean" : "कन्दुकेन",
@@ -294,6 +338,10 @@
   "word" : "BE POSITION",
   "mean" : "पदेन",
   "h_mean" : "पद से"
+}, {
+  "word" : "BEAK",
+  "mean" : "चञ्चु",
+  "h_mean" : "चोंच"
 }, {
   "word" : "BECAME HAPPY",
   "mean" : "प्रीतोअभवत्",
@@ -343,6 +391,10 @@
   "mean" : "जन्मदिवसः",
   "h_mean" : "जन्मदिन"
 }, {
+  "word" : "BLACK BEES",
+  "mean" : "भ्रमराणि",
+  "h_mean" : "भौरों का"
+}, {
   "word" : "BLESSINGS",
   "mean" : "आशीर्वादः",
   "h_mean" : "आशीर्वाद"
@@ -350,6 +402,10 @@
   "word" : "BLIND",
   "mean" : "अन्धः",
   "h_mean" : "अन्धा"
+}, {
+  "word" : "BLOOM",
+  "mean" : "विकसन्ति",
+  "h_mean" : "खिलते हैं"
 }, {
   "word" : "BOOK",
   "mean" : "पुस्तकम्",
@@ -387,6 +443,14 @@
   "mean" : "नतमस्तकः",
   "h_mean" : "सिर झुकाना"
 }, {
+  "word" : "BREAST",
+  "mean" : "पयोधराः",
+  "h_mean" : "स्तन"
+}, {
+  "word" : "BROKEN",
+  "mean" : "त्रोटयित्वा",
+  "h_mean" : "तोड़कर"
+}, {
   "word" : "BRUSHING",
   "mean" : "दन्तमञजनं",
   "h_mean" : "दात साफ करने"
@@ -403,9 +467,17 @@
   "mean" : "बसयानेन",
   "h_mean" : "बस से"
 }, {
+  "word" : "BUT",
+  "mean" : "परम्",
+  "h_mean" : "परन्तु"
+}, {
   "word" : "BUTCHER'S",
   "mean" : "शौनकस्य",
   "h_mean" : "कसाई की"
+}, {
+  "word" : "BY A SCHEME",
+  "mean" : "उपायेन",
+  "h_mean" : "उपाय से"
 }, {
   "word" : "BY ASKING",
   "mean" : "पृष्टवा",
@@ -443,6 +515,26 @@
   "mean" : "आज्ञया",
   "h_mean" : "आज्ञा से"
 }, {
+  "word" : "BY READING",
+  "mean" : "अधीत्य",
+  "h_mean" : "अध्ययन"
+}, {
+  "word" : "BY READING",
+  "mean" : "अधीत्य",
+  "h_mean" : "पढकर"
+}, {
+  "word" : "BY THE JACKAL",
+  "mean" : "श्रृगालेन",
+  "h_mean" : "सियार के द्वारा"
+}, {
+  "word" : "BY THIRST",
+  "mean" : "पिपासया",
+  "h_mean" : "प्यास के द्वारा"
+}, {
+  "word" : "CALM",
+  "mean" : "शान्ता",
+  "h_mean" : "शान्त"
+}, {
   "word" : "CAVE",
   "mean" : "गुहायां",
   "h_mean" : "गुफा"
@@ -460,6 +552,10 @@
   "h_mean" : "सारे बच्चे"
 }, {
   "word" : "CHIRP",
+  "mean" : "कूजन्ति",
+  "h_mean" : "कूजते हैं"
+}, {
+  "word" : "CHIRP",
   "mean" : "कुजन्ति",
   "h_mean" : "कुजते हैं"
 }, {
@@ -474,6 +570,10 @@
   "word" : "CLEAN CLOTHES",
   "mean" : "स्वच्छ वस्त्राणि",
   "h_mean" : "साफ कपड़े"
+}, {
+  "word" : "CLIMBED",
+  "mean" : "आरूह्य",
+  "h_mean" : "चढ़कर"
 }, {
   "word" : "CLIMBS UP",
   "mean" : "अवतरणः",
@@ -491,6 +591,14 @@
   "mean" : "दशागुल्याः",
   "h_mean" : "दशगुल्ला"
 }, {
+  "word" : "COLOURS",
+  "mean" : "वर्णानि",
+  "h_mean" : "रंगों के"
+}, {
+  "word" : "COME",
+  "mean" : "आयान्ति",
+  "h_mean" : "आते हैं"
+}, {
   "word" : "COME",
   "mean" : "आगत्य",
   "h_mean" : "आकर"
@@ -507,6 +615,10 @@
   "mean" : "अवतरतः",
   "h_mean" : "उतरता हैं"
 }, {
+  "word" : "COMFORT",
+  "mean" : "सुखानि",
+  "h_mean" : "सुख"
+}, {
   "word" : "COMMANDED",
   "mean" : "आदिशत्",
   "h_mean" : "आदेश दिया"
@@ -514,6 +626,10 @@
   "word" : "COMPOUND",
   "mean" : "परिसरे",
   "h_mean" : "परिसर"
+}, {
+  "word" : "CONTACT",
+  "mean" : "संसर्ग",
+  "h_mean" : "संपर्क"
 }, {
   "word" : "CONTINUOUS",
   "mean" : "निरन्तरम्",
@@ -547,6 +663,10 @@
   "mean" : "धनम्",
   "h_mean" : "पेसा"
 }, {
+  "word" : "CUT",
+  "mean" : "अकृन्तत्",
+  "h_mean" : "काटा"
+}, {
   "word" : "DAILY ACTIONS",
   "mean" : "दैनिक क्रियाएँ",
   "h_mean" : "नित्यकर्माणि"
@@ -558,6 +678,10 @@
   "word" : "DANCES",
   "mean" : "नृत्यन्ति",
   "h_mean" : "नाचते हैं"
+}, {
+  "word" : "DANGEROUS",
+  "mean" : "भयङ्कर",
+  "h_mean" : "खतरनाक"
 }, {
   "word" : "DARING",
   "mean" : "साहसी",
@@ -576,8 +700,20 @@
   "h_mean" : "निश्चय"
 }, {
   "word" : "DECORATED",
+  "mean" : "अलंकृतः",
+  "h_mean" : "सुशोभित"
+}, {
+  "word" : "DECORATED",
   "mean" : "विभूषितः",
   "h_mean" : "विभूषित"
+}, {
+  "word" : "DEPENDED",
+  "mean" : "आश्रयन्ति",
+  "h_mean" : "आश्रय होते हैं"
+}, {
+  "word" : "DESTINY",
+  "mean" : "भागधेयम्",
+  "h_mean" : "भाग्य"
 }, {
   "word" : "DEVIL",
   "mean" : "दुर्जनों",
@@ -586,6 +722,10 @@
   "word" : "DEVIL",
   "mean" : "रिपुः",
   "h_mean" : "दुश्मन"
+}, {
+  "word" : "DEVOTED",
+  "mean" : "तपश्चकार",
+  "h_mean" : "तपस्या की"
 }, {
   "word" : "DEVOTEE",
   "mean" : "भक्तः",
@@ -636,12 +776,24 @@
   "h_mean" : "कर्तव्य"
 }, {
   "word" : "EARTH",
+  "mean" : "भुवि",
+  "h_mean" : "पृथ्वी"
+}, {
+  "word" : "EARTH",
   "mean" : "वसुन्धरा",
   "h_mean" : "पृथ्वी"
 }, {
   "word" : "EAT",
   "mean" : "खादामि",
   "h_mean" : "खाता हैं"
+}, {
+  "word" : "EGGS",
+  "mean" : "अण्डानि",
+  "h_mean" : "अण्डे"
+}, {
+  "word" : "ELEPHANTS",
+  "mean" : "हस्ती",
+  "h_mean" : "हाथी"
 }, {
   "word" : "ELEPHANTS",
   "mean" : "गजाः",
@@ -654,6 +806,10 @@
   "word" : "END",
   "mean" : "नाशः",
   "h_mean" : "खत्म"
+}, {
+  "word" : "ENGLISH MEN'S",
+  "mean" : "आंग्लीयानाम्",
+  "h_mean" : "अंग्रेजों के"
 }, {
   "word" : "ESTABLISHED",
   "mean" : "संस्थितम्",
@@ -674,6 +830,10 @@
   "word" : "EVENING TIME",
   "mean" : "सायंकाले",
   "h_mean" : "शाम के समय"
+}, {
+  "word" : "EVERY YEAR",
+  "mean" : "प्रतिवर्षम्",
+  "h_mean" : "प्रत्येक वर्ष"
 }, {
   "word" : "EVERYBODY WILL COME",
   "mean" : "आगमिष्यामः",
@@ -735,6 +895,10 @@
   "mean" : "निर्भीकः",
   "h_mean" : "निङर"
 }, {
+  "word" : "FELT",
+  "mean" : "प्रवर्त्तते",
+  "h_mean" : "लगता था"
+}, {
   "word" : "FELT SAD",
   "mean" : "अन्वशोचत्",
   "h_mean" : "दुखी हुआ"
@@ -743,9 +907,17 @@
   "mean" : "युध्दम्",
   "h_mean" : "युध्द"
 }, {
+  "word" : "FIRE",
+  "mean" : "वहिनः",
+  "h_mean" : "आग"
+}, {
   "word" : "FIRST OF ALL",
   "mean" : "सर्वप्रथमं",
   "h_mean" : "सबसे पहले"
+}, {
+  "word" : "FLOW",
+  "mean" : "प्रवहन्ति",
+  "h_mean" : "बहती हैं"
 }, {
   "word" : "FLOWING",
   "mean" : "निस्सरतो",
@@ -779,6 +951,14 @@
   "mean" : "कार्यालयेभ्यः",
   "h_mean" : "कार्यालयों के लिए"
 }, {
+  "word" : "FOR PEACE",
+  "mean" : "शान्तये",
+  "h_mean" : "शान्ति के लिए"
+}, {
+  "word" : "FOR THE COUNTRY",
+  "mean" : "देशाय",
+  "h_mean" : "देश के लिए"
+}, {
   "word" : "FOR THE GODS",
   "mean" : "देवेभ्यः",
   "h_mean" : "देवताऔ के लिए"
@@ -794,6 +974,14 @@
   "word" : "FOREST",
   "mean" : "वने",
   "h_mean" : "जंगल"
+}, {
+  "word" : "FOREST WEALTH",
+  "mean" : "वनसम्पदा",
+  "h_mean" : "वनसंपत्ति"
+}, {
+  "word" : "FORTUNE",
+  "mean" : "दैवम्",
+  "h_mean" : "भाग्य"
 }, {
   "word" : "FOUR",
   "mean" : "चत्वारि",
@@ -819,6 +1007,10 @@
   "mean" : "कक्षायाः",
   "h_mean" : "कक्षा से"
 }, {
+  "word" : "FROM COUNTRY",
+  "mean" : "देशाद्",
+  "h_mean" : "देश से"
+}, {
   "word" : "FROM STICK",
   "mean" : "दण्डेन",
   "h_mean" : "डंडा"
@@ -826,6 +1018,10 @@
   "word" : "FROM THE MONSTER",
   "mean" : "राक्षसेन",
   "h_mean" : "राक्षस से"
+}, {
+  "word" : "FROM THE TREE",
+  "mean" : "वृक्षाद्",
+  "h_mean" : "वृक्ष से"
 }, {
   "word" : "FROM THE TWO EYES",
   "mean" : "नेत्राभ्याम्",
@@ -847,6 +1043,10 @@
   "mean" : "अयच्छत्",
   "h_mean" : "दिया"
 }, {
+  "word" : "GETS",
+  "mean" : "पाति",
+  "h_mean" : "प्राप्त होता है"
+}, {
   "word" : "GIRL",
   "mean" : "बालिका",
   "h_mean" : "लडकी"
@@ -854,6 +1054,10 @@
   "word" : "GIRL STUDENT",
   "mean" : "छात्रा",
   "h_mean" : "छात्रा"
+}, {
+  "word" : "GIVE",
+  "mean" : "प्रयच्छन्ति",
+  "h_mean" : "देते हैं"
 }, {
   "word" : "GIVE",
   "mean" : "यच्छति",
@@ -866,6 +1070,10 @@
   "word" : "GIVES",
   "mean" : "ददाति",
   "h_mean" : "देता हैं"
+}, {
+  "word" : "GO",
+  "mean" : "चलत",
+  "h_mean" : "चलो"
 }, {
   "word" : "GOD",
   "mean" : "ईश्वरं",
@@ -886,6 +1094,10 @@
   "word" : "GOT IN DONE",
   "mean" : "अकारयत्",
   "h_mean" : "करवाया"
+}, {
+  "word" : "GRAIN",
+  "mean" : "धान्यानि",
+  "h_mean" : "अनाज"
 }, {
   "word" : "GRANDFATHER",
   "mean" : "पितामहः",
@@ -918,6 +1130,14 @@
   "word" : "GREETINGS TO ALL",
   "mean" : "प्रणमन्ति",
   "h_mean" : "सब को प्रणाम"
+}, {
+  "word" : "GROWTHFUL",
+  "mean" : "पोषिका",
+  "h_mean" : "पोषण करने वाली"
+}, {
+  "word" : "HAIR",
+  "mean" : "केशा",
+  "h_mean" : "बाल"
 }, {
   "word" : "HANDS",
   "mean" : "हस्तौ",
@@ -971,9 +1191,17 @@
   "mean" : "स्वस्थः",
   "h_mean" : "स्वास्थ"
 }, {
+  "word" : "HEALTHY",
+  "mean" : "अरोगम्",
+  "h_mean" : "ऩीरोग"
+}, {
   "word" : "HELLO",
   "mean" : "नमतः",
   "h_mean" : "नमस्कार"
+}, {
+  "word" : "HER",
+  "mean" : "तस्याः",
+  "h_mean" : "उसके"
 }, {
   "word" : "HERE",
   "mean" : "अत्र",
@@ -987,6 +1215,10 @@
   "mean" : "तस्य",
   "h_mean" : "उसका"
 }, {
+  "word" : "HOLY PLACE",
+  "mean" : "तीर्थानि",
+  "h_mean" : "तीर्थ"
+}, {
   "word" : "HOME",
   "mean" : "गृह",
   "h_mean" : "घर"
@@ -994,6 +1226,10 @@
   "word" : "HOME WORK",
   "mean" : "गृह कार्यम्",
   "h_mean" : "गृह कार्य"
+}, {
+  "word" : "HONEY BEES",
+  "mean" : "मधुमक्षिकाः",
+  "h_mean" : "मधुमक्खियाँ"
 }, {
   "word" : "HORSE TO",
   "mean" : "अश्वात्",
@@ -1014,6 +1250,10 @@
   "word" : "HUNGRY",
   "mean" : "क्षधितः",
   "h_mean" : "भुखा"
+}, {
+  "word" : "HUNTER",
+  "mean" : "व्याघः",
+  "h_mean" : "शिकारी"
 }, {
   "word" : "I BREAK",
   "mean" : "त्रोटयामि",
@@ -1063,6 +1303,10 @@
   "mean" : "अनिवार्यम्",
   "h_mean" : "जरुरी"
 }, {
+  "word" : "IN A DIRECTION",
+  "mean" : "दिशि",
+  "h_mean" : "दिशा में"
+}, {
   "word" : "IN AFTERNOON HOLIDAY",
   "mean" : "मध्यावकाशे",
   "h_mean" : "दोपहर की छुटटी"
@@ -1083,13 +1327,25 @@
   "mean" : "वृक्षेषु",
   "h_mean" : "सभी पेडो में"
 }, {
+  "word" : "IN ANCIENT TIMES",
+  "mean" : "पुराकाले",
+  "h_mean" : "प्राचीनकाल में"
+}, {
   "word" : "IN BRIDGE",
   "mean" : "सेतोः",
   "h_mean" : "पुल में"
 }, {
+  "word" : "IN DANGER",
+  "mean" : "आपत्सु",
+  "h_mean" : "संकट में"
+}, {
   "word" : "IN DEATH TIME",
   "mean" : "मृत्युसमये",
   "h_mean" : "मरने के समय में"
+}, {
+  "word" : "IN DEEP THOUGHTS",
+  "mean" : "मग्नः",
+  "h_mean" : "धॅंसा हुआ"
 }, {
   "word" : "IN EVENING",
   "mean" : "सायकाले",
@@ -1115,6 +1371,10 @@
   "mean" : "सरोवरेषु",
   "h_mean" : "सरोवरों में"
 }, {
+  "word" : "IN LIBERATING",
+  "mean" : "उध्दरणं",
+  "h_mean" : "उध्दार करने में"
+}, {
   "word" : "IN LIBRARY",
   "mean" : "पुस्तकालयेषु",
   "h_mean" : "पुस्तकालय में"
@@ -1122,6 +1382,10 @@
   "word" : "IN LIFE",
   "mean" : "जीवने",
   "h_mean" : "जीवन में"
+}, {
+  "word" : "IN OTHERS HAND",
+  "mean" : "परहस्तेषु",
+  "h_mean" : "दूसरो के हाथों में"
 }, {
   "word" : "IN PLAYGROUND",
   "mean" : "क्रडाक्षेत्रे",
@@ -1140,8 +1404,40 @@
   "h_mean" : "अपने मन में"
 }, {
   "word" : "IN SKY",
+  "mean" : "गगने",
+  "h_mean" : "गगन में"
+}, {
+  "word" : "IN SKY",
   "mean" : "आकाशे",
   "h_mean" : "आकाश में"
+}, {
+  "word" : "IN STATE",
+  "mean" : "जनपदे",
+  "h_mean" : "प्रांत में"
+}, {
+  "word" : "IN THE BOOKS",
+  "mean" : "पुस्तकेषु",
+  "h_mean" : "किताबों में"
+}, {
+  "word" : "IN THE CITY",
+  "mean" : "नगरे",
+  "h_mean" : "नगर में"
+}, {
+  "word" : "IN THE COUNTRY",
+  "mean" : "देशे",
+  "h_mean" : "देश में"
+}, {
+  "word" : "IN THE END",
+  "mean" : "अन्ते",
+  "h_mean" : "अन्त में"
+}, {
+  "word" : "IN THE GARDEN",
+  "mean" : "उपवने",
+  "h_mean" : "बगीचे में"
+}, {
+  "word" : "IN THE GARDEN",
+  "mean" : "वाटिकायाम्",
+  "h_mean" : "बाग में"
 }, {
   "word" : "IN THE MARKET",
   "mean" : "आपणे",
@@ -1150,6 +1446,14 @@
   "word" : "IN THE OF PROGRESS",
   "mean" : "वृध्दिकाले",
   "h_mean" : "उन्नति के समय में"
+}, {
+  "word" : "IN THE TOWN",
+  "mean" : "नगरे",
+  "h_mean" : "नगर में"
+}, {
+  "word" : "IN THE WINTER SEASON",
+  "mean" : "शीतकाले",
+  "h_mean" : "सर्दी की ऋतु में"
 }, {
   "word" : "IN TIME",
   "mean" : "समये",
@@ -1167,9 +1471,17 @@
   "mean" : "ग्रामे",
   "h_mean" : "गाॅंव में"
 }, {
+  "word" : "IN WAR",
+  "mean" : "युध्दे",
+  "h_mean" : "युध्द में"
+}, {
   "word" : "IN WATER",
   "mean" : "जले",
   "h_mean" : "जल में"
+}, {
+  "word" : "IN WEALTH",
+  "mean" : "वित्तेषु",
+  "h_mean" : "धन में"
 }, {
   "word" : "INDEPENDENCE",
   "mean" : "स्वतन्त्राः",
@@ -1187,9 +1499,25 @@
   "mean" : "परिचयम्",
   "h_mean" : "परिचय"
 }, {
+  "word" : "INVOLVED",
+  "mean" : "जातः",
+  "h_mean" : "हो गया"
+}, {
+  "word" : "IS",
+  "mean" : "वर्त्तते",
+  "h_mean" : "हैं"
+}, {
   "word" : "IS DONE",
   "mean" : "असि",
   "h_mean" : "हो जाए"
+}, {
+  "word" : "IS POWERFUL",
+  "mean" : "अतिरिच्यते",
+  "h_mean" : "प्रबल है"
+}, {
+  "word" : "IT",
+  "mean" : "अनेन",
+  "h_mean" : "इस"
 }, {
   "word" : "IT COMES",
   "mean" : "आगच्छति",
@@ -1207,6 +1535,14 @@
   "mean" : "अनशयत्",
   "h_mean" : "नष्ट हो गया"
 }, {
+  "word" : "ITS",
+  "mean" : "अस्य",
+  "h_mean" : "इसका"
+}, {
+  "word" : "JAIL",
+  "mean" : "कारागारम्",
+  "h_mean" : "जेल"
+}, {
   "word" : "JUSTICE",
   "mean" : "न्यायम्",
   "h_mean" : "न्याय"
@@ -1219,13 +1555,25 @@
   "mean" : "नृपः",
   "h_mean" : "राजा"
 }, {
+  "word" : "KNOWLEDGE",
+  "mean" : "विद्या",
+  "h_mean" : "पढाई"
+}, {
   "word" : "LABOR",
   "mean" : "उद्यमः",
   "h_mean" : "मेहनत"
 }, {
+  "word" : "LADEN WITH GOOD QUALITIES",
+  "mean" : "धुरन्धरा",
+  "h_mean" : "अच्छे गुणो से युक्त"
+}, {
   "word" : "LAME",
   "mean" : "पड़गुं",
   "h_mean" : "लंगड़ा"
+}, {
+  "word" : "LEADING",
+  "mean" : "अग्रगण्यः",
+  "h_mean" : "आगे गिने जाने वाले"
 }, {
   "word" : "LEARN",
   "mean" : "स्मरति",
@@ -1251,6 +1599,18 @@
   "mean" : "पुस्तकालयात्",
   "h_mean" : "पुस्तकालय"
 }, {
+  "word" : "LIFE",
+  "mean" : "प्राणान्",
+  "h_mean" : "प्राणों का"
+}, {
+  "word" : "LIKE A WATCHMAN",
+  "mean" : "प्रहरीव",
+  "h_mean" : "प्रहरी के समान"
+}, {
+  "word" : "LIKE A WHEEL",
+  "mean" : "चक्रवत्",
+  "h_mean" : "पहिए की तरह"
+}, {
   "word" : "LION",
   "mean" : "सिहाः",
   "h_mean" : "सिह"
@@ -1259,6 +1619,18 @@
   "mean" : "सूचीबध्दान",
   "h_mean" : "सूचीकरणम्"
 }, {
+  "word" : "LITERATURE",
+  "mean" : "साहित्य",
+  "h_mean" : "साहित्य"
+}, {
+  "word" : "LITTLE",
+  "mean" : "स्वल्पम्",
+  "h_mean" : "थोङा"
+}, {
+  "word" : "LIVES",
+  "mean" : "जीवमानः",
+  "h_mean" : "जीवित रहता हैं"
+}, {
   "word" : "LOIN",
   "mean" : "सिहः",
   "h_mean" : "शेर"
@@ -1266,6 +1638,14 @@
   "word" : "LOTUS",
   "mean" : "कमलम्",
   "h_mean" : "कमल"
+}, {
+  "word" : "LOVES",
+  "mean" : "स्निह्यति",
+  "h_mean" : "प्रेम करते थे"
+}, {
+  "word" : "LOVINGLY",
+  "mean" : "प्रेम्णा",
+  "h_mean" : "प्रेम से"
 }, {
   "word" : "MADE A PROFIT",
   "mean" : "अलुभ्यत्",
@@ -1280,8 +1660,16 @@
   "h_mean" : "आम"
 }, {
   "word" : "MANY",
+  "mean" : "बहवः",
+  "h_mean" : "बहुत से"
+}, {
+  "word" : "MANY",
   "mean" : "नाना",
   "h_mean" : "कई"
+}, {
+  "word" : "MANY THOUGHT",
+  "mean" : "विविध विचार",
+  "h_mean" : "अनेक विचार"
 }, {
   "word" : "ME",
   "mean" : "माम्",
@@ -1302,6 +1690,14 @@
   "word" : "MILK",
   "mean" : "दुग्धं",
   "h_mean" : "दुध"
+}, {
+  "word" : "MINISTER",
+  "mean" : "मन्त्रिणः",
+  "h_mean" : "मन्त्री"
+}, {
+  "word" : "MONKEY",
+  "mean" : "वानरः",
+  "h_mean" : "बंदर"
 }, {
   "word" : "MONKEYS",
   "mean" : "वानराः",
@@ -1339,6 +1735,10 @@
   "mean" : "मातरः",
   "h_mean" : "माताएँ"
 }, {
+  "word" : "MUD",
+  "mean" : "पंक",
+  "h_mean" : "कीचड"
+}, {
   "word" : "MY",
   "mean" : "मम",
   "h_mean" : "मेरा"
@@ -1371,6 +1771,10 @@
   "mean" : "स्वाध्यायं",
   "h_mean" : "अपनी पढाई"
 }, {
+  "word" : "NAILS",
+  "mean" : "नखाः",
+  "h_mean" : "नाखून"
+}, {
   "word" : "NAME",
   "mean" : "अभिधानं",
   "h_mean" : "नाम"
@@ -1379,9 +1783,29 @@
   "mean" : "अभिधानानि",
   "h_mean" : "नाम"
 }, {
+  "word" : "NATIONAL LAND",
+  "mean" : "राष्ट्र भूमौ",
+  "h_mean" : "राष्ट्र भूमि"
+}, {
+  "word" : "NATURE'S",
+  "mean" : "प्रकृत्या",
+  "h_mean" : "प्रकृति का"
+}, {
+  "word" : "NEAR THE VILLAGE",
+  "mean" : "ग्रामंप्रति",
+  "h_mean" : "गाॅंव के पास"
+}, {
+  "word" : "NESTS",
+  "mean" : "नीडानि",
+  "h_mean" : "घोसले"
+}, {
   "word" : "NESTS",
   "mean" : "नीङे",
   "h_mean" : "घोसला"
+}, {
+  "word" : "NET",
+  "mean" : "पाशम्",
+  "h_mean" : "जाल को"
 }, {
   "word" : "NEWSPAPER",
   "mean" : "समाचारपत्रं",
@@ -1395,6 +1819,10 @@
   "mean" : "नहि",
   "h_mean" : "नही"
 }, {
+  "word" : "NOBLE, GENTLE",
+  "mean" : "विनयम्",
+  "h_mean" : "नम्रता"
+}, {
   "word" : "NOT",
   "mean" : "नास्ति",
   "h_mean" : "नही"
@@ -1407,6 +1835,10 @@
   "mean" : "प्रत्यक्षे",
   "h_mean" : "आगे से"
 }, {
+  "word" : "OF ALL",
+  "mean" : "सर्वस्य",
+  "h_mean" : "सबका"
+}, {
   "word" : "OF DARKNESS",
   "mean" : "अन्धकारस्य",
   "h_mean" : "अन्धकार का"
@@ -1414,6 +1846,10 @@
   "word" : "OF DEATH",
   "mean" : "मृत्योः",
   "h_mean" : "मृत्यु के"
+}, {
+  "word" : "OF FOOLS",
+  "mean" : "मूर्खाणाम्",
+  "h_mean" : "मूर्खों का"
 }, {
   "word" : "OF GOD",
   "mean" : "ईश्वरस्य",
@@ -1423,9 +1859,21 @@
   "mean" : "गर्वस्य",
   "h_mean" : "घमंड का"
 }, {
+  "word" : "OF THE COUNTRY",
+  "mean" : "देशस्य",
+  "h_mean" : "देश की"
+}, {
+  "word" : "OF THE LAZY",
+  "mean" : "अलसस्य",
+  "h_mean" : "आलसियों का"
+}, {
   "word" : "OF THE PLAY",
   "mean" : "नाटकस्य",
   "h_mean" : "नाटक के"
+}, {
+  "word" : "OF THE TOWN",
+  "mean" : "नगरस्य",
+  "h_mean" : "नगर का"
 }, {
   "word" : "OK",
   "mean" : "अस्तु",
@@ -1438,6 +1886,18 @@
   "word" : "ON CHAIR",
   "mean" : "आसन्दिकायाम्",
   "h_mean" : "कुर्सी पर"
+}, {
+  "word" : "ON THE BANK",
+  "mean" : "तटे",
+  "h_mean" : "तट पर"
+}, {
+  "word" : "ON THE EARTH",
+  "mean" : "भूमौ",
+  "h_mean" : "भूमि पर"
+}, {
+  "word" : "ON THE SPOT",
+  "mean" : "अधिष्ठाने",
+  "h_mean" : "स्थान पर"
 }, {
   "word" : "ONCE",
   "mean" : "एकस्मिन्",
@@ -1459,12 +1919,12 @@
   "mean" : "पठति",
   "h_mean" : "पढता हैं"
 }, {
-  "word" : "ONLY",
-  "mean" : "एव",
-  "h_mean" : "ही"
+  "word" : "ONE THIRD PORTION",
+  "mean" : "तृतीयांश",
+  "h_mean" : "तीसरा भाग"
 }, {
   "word" : "ONLY",
-  "mean" : "एवम्",
+  "mean" : "एव",
   "h_mean" : "ही"
 }, {
   "word" : "ONLY",
@@ -1474,6 +1934,18 @@
   "word" : "ONLY THEN",
   "mean" : "तदैव",
   "h_mean" : "तब ही"
+}, {
+  "word" : "ORNAMENTED",
+  "mean" : "भूषितः",
+  "h_mean" : "सुशोभित"
+}, {
+  "word" : "ORNAMENTED",
+  "mean" : "शोभन्ते",
+  "h_mean" : "शोभित होते हैं"
+}, {
+  "word" : "ORNAMENTS",
+  "mean" : "भूषणम्",
+  "h_mean" : "आभूषण"
 }, {
   "word" : "OTHER COUNTRIES",
   "mean" : "विदेशेषु",
@@ -1491,9 +1963,17 @@
   "mean" : "बहिः",
   "h_mean" : "बहार"
 }, {
+  "word" : "OWN",
+  "mean" : "स्वकीयः",
+  "h_mean" : "अपने"
+}, {
   "word" : "PARK",
   "mean" : "उद्यानम्",
   "h_mean" : "बगीचा"
+}, {
+  "word" : "PARSED AWAY",
+  "mean" : "सञ्जाता",
+  "h_mean" : "हो गए"
 }, {
   "word" : "PATIENCE",
   "mean" : "धैर्यम्",
@@ -1507,9 +1987,25 @@
   "mean" : "मयुरः",
   "h_mean" : "मोर"
 }, {
+  "word" : "PEBBLE",
+  "mean" : "पाषाणखण्डम्",
+  "h_mean" : "पत्थर का टुकडा"
+}, {
+  "word" : "PICNIC",
+  "mean" : "वनभोज",
+  "h_mean" : "पिकनिक"
+}, {
   "word" : "PIECE",
   "mean" : "खण्डम्",
   "h_mean" : "टुकडा"
+}, {
+  "word" : "PITCHER",
+  "mean" : "घटम्",
+  "h_mean" : "घडा"
+}, {
+  "word" : "PLANTATION",
+  "mean" : "वृक्षारोपणम्",
+  "h_mean" : "पेड लगाना"
 }, {
   "word" : "PLAY",
   "mean" : "्रक्रीडति",
@@ -1518,6 +2014,10 @@
   "word" : "PLAYS",
   "mean" : "क्रीडन्ति",
   "h_mean" : "सब खैलता हैं"
+}, {
+  "word" : "PLEASURE",
+  "mean" : "सुखम्",
+  "h_mean" : "सुख"
 }, {
   "word" : "PLEASURE",
   "mean" : "सुखिनः",
@@ -1535,6 +2035,18 @@
   "mean" : "विषकुम्भम्",
   "h_mean" : "जहर का मटका"
 }, {
+  "word" : "POLITE",
+  "mean" : "शान्ता",
+  "h_mean" : "शान्त"
+}, {
+  "word" : "POND",
+  "mean" : "सरोवरम्",
+  "h_mean" : "तालाब"
+}, {
+  "word" : "POOR",
+  "mean" : "अधनः",
+  "h_mean" : "निर्धन"
+}, {
   "word" : "POWER",
   "mean" : "शक्तिः",
   "h_mean" : "शक्ति"
@@ -1542,6 +2054,10 @@
   "word" : "PRAYER",
   "mean" : "प्रार्थना",
   "h_mean" : "प्रार्थना"
+}, {
+  "word" : "PRECEPT",
+  "mean" : "उपदेशः",
+  "h_mean" : "उपदेश"
 }, {
   "word" : "PREPARED",
   "mean" : "सज्जाः",
@@ -1559,6 +2075,10 @@
   "mean" : "रक्षति",
   "h_mean" : "रक्षा करता है"
 }, {
+  "word" : "RAIN",
+  "mean" : "वृष्टिः",
+  "h_mean" : "वर्षा"
+}, {
   "word" : "RAN AWAY",
   "mean" : "पलायितः",
   "h_mean" : "पलायन"
@@ -1567,9 +2087,17 @@
   "mean" : "अपितु",
   "h_mean" : "बल्कि"
 }, {
+  "word" : "READY",
+  "mean" : "उद्यता",
+  "h_mean" : "तैयार"
+}, {
   "word" : "RECEIVES",
   "mean" : "प्राप्नोति",
   "h_mean" : "प्राप्त करता हैं"
+}, {
+  "word" : "REGULATED",
+  "mean" : "प्रचालिते",
+  "h_mean" : "चलाए गए"
 }, {
   "word" : "RELIGION",
   "mean" : "धर्मः",
@@ -1587,6 +2115,10 @@
   "mean" : "विश्राम्",
   "h_mean" : "आराम"
 }, {
+  "word" : "RESULT",
+  "mean" : "गतिः",
+  "h_mean" : "परिणाम"
+}, {
   "word" : "RETURNED",
   "mean" : "प्रत्यागच्छत्",
   "h_mean" : "लोटे"
@@ -1594,6 +2126,10 @@
   "word" : "RIVER",
   "mean" : "नदी",
   "h_mean" : "नदी"
+}, {
+  "word" : "RIVERS",
+  "mean" : "नद्यः",
+  "h_mean" : "नदियाॅं"
 }, {
   "word" : "ROAR",
   "mean" : "गर्जन्ति",
@@ -1623,6 +2159,10 @@
   "mean" : "अधावत्",
   "h_mean" : "भागता है"
 }, {
+  "word" : "SAID",
+  "mean" : "अवदत्",
+  "h_mean" : "बोला"
+}, {
   "word" : "SALUTE THEM",
   "mean" : "नमामस्तौ",
   "h_mean" : "उन दोनो को नमस्कार करते है"
@@ -1631,13 +2171,45 @@
   "mean" : "प्रणमति",
   "h_mean" : "प्रणाम करता है"
 }, {
+  "word" : "SAVIOUR",
+  "mean" : "मोक्षप्रदम्",
+  "h_mean" : "मुक्तिदायक"
+}, {
   "word" : "SAW",
   "mean" : "अपश्यत्",
   "h_mean" : "देखा"
 }, {
+  "word" : "SAY",
+  "mean" : "कथ्यते",
+  "h_mean" : "कहते हैं"
+}, {
   "word" : "SCHOOL",
   "mean" : "विद्यालयं",
   "h_mean" : "विद्यालय"
+}, {
+  "word" : "SEASONS",
+  "mean" : "ऋतवः",
+  "h_mean" : "ऋतुएँ"
+}, {
+  "word" : "SECURITY OF WILD ANIMAL",
+  "mean" : "संरक्षणम्",
+  "h_mean" : "वन के जीव जंतुओ का सरक्षण"
+}, {
+  "word" : "SEE",
+  "mean" : "पश्यन्ति",
+  "h_mean" : "देखते हैं"
+}, {
+  "word" : "SEEING",
+  "mean" : "अवलोक्य",
+  "h_mean" : "देखकर"
+}, {
+  "word" : "SEEN",
+  "mean" : "दृश्यते",
+  "h_mean" : "दिखाई देते हैं"
+}, {
+  "word" : "SEEN",
+  "mean" : "दृष्ट्वा",
+  "h_mean" : "देखकर"
 }, {
   "word" : "SHADOW",
   "mean" : "छाया",
@@ -1659,6 +2231,14 @@
   "mean" : "पण्यगृहम्",
   "h_mean" : "दुकान"
 }, {
+  "word" : "SHOULD GIVE UP",
+  "mean" : "परिहर्त्तव्य",
+  "h_mean" : "त्याग करना चाहिए"
+}, {
+  "word" : "SILENTLY",
+  "mean" : "निभृतः",
+  "h_mean" : "चुपचाप"
+}, {
   "word" : "SILVER",
   "mean" : "रजत",
   "h_mean" : "चादी"
@@ -1671,6 +2251,10 @@
   "mean" : "गायति",
   "h_mean" : "गाता हैं"
 }, {
+  "word" : "SIT",
+  "mean" : "उपविशन्ति",
+  "h_mean" : "बैठे हैं"
+}, {
   "word" : "SIT DOWN",
   "mean" : "उपविशति",
   "h_mean" : "बैठता हैं"
@@ -1682,6 +2266,10 @@
   "word" : "SMALL BROTHER",
   "mean" : "अनुजः",
   "h_mean" : "छोटा भाई"
+}, {
+  "word" : "SNOW",
+  "mean" : "हिमम्",
+  "h_mean" : "बर्फ"
 }, {
   "word" : "SO",
   "mean" : "अतएव",
@@ -1711,9 +2299,17 @@
   "mean" : "मृत्तिका",
   "h_mean" : "मिट्टी"
 }, {
+  "word" : "SOME",
+  "mean" : "किंचिद्",
+  "h_mean" : "कुछ"
+}, {
   "word" : "SON OF",
   "mean" : "पुत्रस्य",
   "h_mean" : "पुत्र का"
+}, {
+  "word" : "SORROW",
+  "mean" : "दुखानि",
+  "h_mean" : "दुख"
 }, {
   "word" : "SOUND",
   "mean" : "शब्दः",
@@ -1742,6 +2338,10 @@
   "word" : "STAYS",
   "mean" : "वसति",
   "h_mean" : "रहता हैं"
+}, {
+  "word" : "STEAL",
+  "mean" : "आहरन्ति",
+  "h_mean" : "चुराते हैं"
 }, {
   "word" : "STOLE IT",
   "mean" : "अचोरयत्",
@@ -1812,6 +2412,10 @@
   "h_mean" : "दुरदर्शनं"
 }, {
   "word" : "THAT",
+  "mean" : "तस्मिन्",
+  "h_mean" : "उस"
+}, {
+  "word" : "THAT",
   "mean" : "यत्",
   "h_mean" : "कि"
 }, {
@@ -1840,6 +2444,10 @@
   "h_mean" : "आदर्श पत्नी"
 }, {
   "word" : "THEM",
+  "mean" : "तान्",
+  "h_mean" : "वे"
+}, {
+  "word" : "THEM",
   "mean" : "तमहं",
   "h_mean" : "उनकी"
 }, {
@@ -1863,6 +2471,10 @@
   "mean" : "अतएव",
   "h_mean" : "इसलिए"
 }, {
+  "word" : "THESE",
+  "mean" : "एतासु",
+  "h_mean" : "ये"
+}, {
   "word" : "THESE TWO",
   "mean" : "तौ",
   "h_mean" : "वे दोनों"
@@ -1883,6 +2495,22 @@
   "mean" : "ते",
   "h_mean" : "वे दो लडकिया"
 }, {
+  "word" : "THIEF",
+  "mean" : "तस्करः",
+  "h_mean" : "चोर"
+}, {
+  "word" : "THIS",
+  "mean" : "अस्मिन्",
+  "h_mean" : "इस"
+}, {
+  "word" : "THIS",
+  "mean" : "एतद्",
+  "h_mean" : "यह"
+}, {
+  "word" : "THIS",
+  "mean" : "एषः",
+  "h_mean" : "यह"
+}, {
   "word" : "THIS ALL",
   "mean" : "सन्ति",
   "h_mean" : "ये सब"
@@ -1902,6 +2530,14 @@
   "word" : "THREE",
   "mean" : "त्रयः",
   "h_mean" : "तीन"
+}, {
+  "word" : "THREW",
+  "mean" : "अक्षिपत्",
+  "h_mean" : "फेंका"
+}, {
+  "word" : "THREW DOWN",
+  "mean" : "अपातयत्",
+  "h_mean" : "गिरा दिया"
 }, {
   "word" : "TIED",
   "mean" : "अबध्नात्",
@@ -1951,6 +2587,10 @@
   "mean" : "गन्तुम्",
   "h_mean" : "जाने के लिए"
 }, {
+  "word" : "TO HOLINESS",
+  "mean" : "शुचिम्",
+  "h_mean" : "पवित्रता को"
+}, {
   "word" : "TO HOUSE",
   "mean" : "गृहे",
   "h_mean" : "घर पर"
@@ -1974,6 +2614,10 @@
   "word" : "TO ROUTE",
   "mean" : "मार्गेण",
   "h_mean" : "मार्ग से"
+}, {
+  "word" : "TO THE ELEPHANTS",
+  "mean" : "गजानाम्",
+  "h_mean" : "हाथियों को"
 }, {
   "word" : "TO THE ENEMY",
   "mean" : "शत्रून्",
@@ -2035,9 +2679,25 @@
   "mean" : "नयति",
   "h_mean" : "ले गया"
 }, {
+  "word" : "TOPS",
+  "mean" : "शिखराणि",
+  "h_mean" : "शिखर"
+}, {
   "word" : "TRAVELLER",
   "mean" : "पथिकः",
   "h_mean" : "यात्री"
+}, {
+  "word" : "TREES",
+  "mean" : "वृक्षाः",
+  "h_mean" : "अनेक वृक्ष"
+}, {
+  "word" : "TRIAL",
+  "mean" : "अयतत्",
+  "h_mean" : "प्रयत्न किया"
+}, {
+  "word" : "TRICK",
+  "mean" : "उपायम्",
+  "h_mean" : "उपाय"
 }, {
   "word" : "TROUBLE",
   "mean" : "संकटे",
@@ -2159,6 +2819,10 @@
   "mean" : "वृक्षाभ्याम्",
   "h_mean" : "दो पेड़"
 }, {
+  "word" : "UNION",
+  "mean" : "संघे",
+  "h_mean" : "संघ में"
+}, {
   "word" : "UNPRECEDENTED",
   "mean" : "अभुतपूर्व",
   "h_mean" : "पहले कभी न हुआ हो"
@@ -2166,6 +2830,10 @@
   "word" : "UNTIL",
   "mean" : "यावत्",
   "h_mean" : "जब तक"
+}, {
+  "word" : "UPON",
+  "mean" : "उपरि",
+  "h_mean" : "ऊपर"
 }, {
   "word" : "VEGETATION",
   "mean" : "वनस्पतिम्",
@@ -2182,6 +2850,18 @@
   "word" : "VIRTURE",
   "mean" : "पुण्याय",
   "h_mean" : "पुण्य"
+}, {
+  "word" : "WALKED",
+  "mean" : "अभ्राम्यत्",
+  "h_mean" : "घूमा"
+}, {
+  "word" : "WANTED",
+  "mean" : "ऐच्छन्",
+  "h_mean" : "चाहते थे"
+}, {
+  "word" : "WAS",
+  "mean" : "आसीत्",
+  "h_mean" : "था"
 }, {
   "word" : "WAS",
   "mean" : "स्म",
@@ -2239,6 +2919,10 @@
   "mean" : "पठामः",
   "h_mean" : "हम सब पढते हैं"
 }, {
+  "word" : "WEALTH",
+  "mean" : "यध्दनम्",
+  "h_mean" : "जो धन"
+}, {
   "word" : "WEARING",
   "mean" : "धारयित्वा",
   "h_mean" : "पहनकर"
@@ -2247,9 +2931,21 @@
   "mean" : "धारयति",
   "h_mean" : "पहनता हैं"
 }, {
+  "word" : "WELFARE",
+  "mean" : "भद्राणि",
+  "h_mean" : "कल्याण"
+}, {
+  "word" : "WELL THOUGHT OF",
+  "mean" : "सुचिन्तितः",
+  "h_mean" : "अच्छी तरह विचार की हुई"
+}, {
   "word" : "WERE",
   "mean" : "अभवन्",
   "h_mean" : "थे"
+}, {
+  "word" : "WERE BORN",
+  "mean" : "जाताः",
+  "h_mean" : "हो गए"
 }, {
   "word" : "WERE INFILTRATED",
   "mean" : "अविशत्",
@@ -2284,6 +2980,10 @@
   "h_mean" : "वैसा ठहरते हुए"
 }, {
   "word" : "WHO",
+  "mean" : "या",
+  "h_mean" : "जो"
+}, {
+  "word" : "WHO",
   "mean" : "कः",
   "h_mean" : "कौन"
 }, {
@@ -2299,6 +2999,10 @@
   "mean" : "के बालिके",
   "h_mean" : "ये दो कोन लडकीया हैं"
 }, {
+  "word" : "WHOLE SEARCHES ABOUT SOUL",
+  "mean" : "आत्मान्वेषिणः",
+  "h_mean" : "आत्मा का अनुसंधान करने वाले"
+}, {
   "word" : "WHY",
   "mean" : "किमथर्म्",
   "h_mean" : "किसलिए"
@@ -2306,6 +3010,10 @@
   "word" : "WHY",
   "mean" : "किमर्थम्",
   "h_mean" : "किसलिए"
+}, {
+  "word" : "WICKED",
+  "mean" : "दुर्जनः",
+  "h_mean" : "दुष्ट"
 }, {
   "word" : "WIFE",
   "mean" : "भार्या",
@@ -2339,6 +3047,10 @@
   "mean" : "सह",
   "h_mean" : "साथ"
 }, {
+  "word" : "WITH BRAVERY",
+  "mean" : "पराक्रमैः",
+  "h_mean" : "पराक्रम से"
+}, {
   "word" : "WITH DEVOTION",
   "mean" : "भक्त्या",
   "h_mean" : "भक्त से"
@@ -2370,6 +3082,14 @@
   "word" : "WITH WHOM",
   "mean" : "कैः",
   "h_mean" : "किससे"
+}, {
+  "word" : "WITHOUT",
+  "mean" : "विहीनः",
+  "h_mean" : "हीन"
+}, {
+  "word" : "WITHOUT THINKING",
+  "mean" : "अचिन्ततानि",
+  "h_mean" : "बिना सोचे"
 }, {
   "word" : "WON IT",
   "mean" : "अजयत्",
